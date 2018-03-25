@@ -1,0 +1,20 @@
+\contentsline {chapter}{\numberline {1}概论}{2}
+\contentsline {section}{\numberline {1.1}移动通信特点}{2}
+\contentsline {subsection}{\numberline {1.1.1}什么是移动通信?}{2}
+\contentsline {subsection}{\numberline {1.1.2}移动通信特点}{2}
+\contentsline {section}{\numberline {1.2}常用移动通信系统}{3}
+\contentsline {section}{\numberline {1.3}移动通信系统发展}{4}
+\contentsline {section}{\numberline {1.4}蜂窝移动通信的组网技术}{5}
+\contentsline {subsection}{\numberline {1.4.1}多址接入}{5}
+\contentsline {subsubsection}{\numberline {1.4.1.1}什么是多址接入？}{5}
+\contentsline {subsubsection}{\numberline {1.4.1.2}多路复用和多址接入区别}{5}
+\contentsline {subsubsection}{\numberline {1.4.1.3}多址接入分类}{5}
+\contentsline {subsection}{\numberline {1.4.2}工作方式}{6}
+\contentsline {subsection}{\numberline {1.4.3}频率复用和蜂窝小区}{7}
+\contentsline {subsubsection}{\numberline {1.4.3.1}移动通信网的区域覆盖方式}{7}
+\contentsline {subsubsection}{\numberline {1.4.3.2}区群}{7}
+\contentsline {subsubsection}{\numberline {1.4.3.3}同频道距离}{7}
+\contentsline {subsubsection}{\numberline {1.4.3.4}同频干扰}{8}
+\contentsline {subsubsection}{\numberline {1.4.3.5}蜂窝系统容量}{8}
+\contentsline {subsubsection}{\numberline {1.4.3.6}提高蜂窝系统容量的方法 }{9}
+\contentsline {subsection}{\numberline {1.4.4}多信道共用技术}{9}
