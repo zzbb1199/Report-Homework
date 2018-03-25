@@ -1,24 +1,25 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.11)  22 MAR 2018 15:04
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.11)  26 MAR 2018 14:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**作业报告.tex
-(./作业报告.tex
+**document.tex
+(./document.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -29,18 +30,18 @@ Package: expl3 2018/02/21 L3 programming layer (loader)
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2018/02/21 L3 programming layer (code)
-\c_max_int=\count87
-\l_tmpa_int=\count88
-\l_tmpb_int=\count89
-\g_tmpa_int=\count90
-\g_tmpb_int=\count91
-\g__intarray_font_int=\count92
-\g__prg_map_int=\count93
-\c_log_iow=\count94
-\l_iow_line_count_int=\count95
-\l__iow_line_target_int=\count96
-\l__iow_one_indent_int=\count97
-\l__iow_indent_int=\count98
+\c_max_int=\count88
+\l_tmpa_int=\count89
+\l_tmpb_int=\count90
+\g_tmpa_int=\count91
+\g_tmpb_int=\count92
+\g__intarray_font_int=\count93
+\g__prg_map_int=\count94
+\c_log_iow=\count95
+\l_iow_line_count_int=\count96
+\l__iow_line_target_int=\count97
+\l__iow_one_indent_int=\count98
+\l__iow_indent_int=\count99
 \c_zero_dim=\dimen103
 \c_max_dim=\dimen104
 \l_tmpa_dim=\dimen105
@@ -59,72 +60,72 @@ Package: expl3 2018/02/21 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count99
-\c__fp_leading_shift_int=\count100
-\c__fp_middle_shift_int=\count101
-\c__fp_trailing_shift_int=\count102
-\c__fp_big_leading_shift_int=\count103
-\c__fp_big_middle_shift_int=\count104
-\c__fp_big_trailing_shift_int=\count105
-\c__fp_Bigg_leading_shift_int=\count106
-\c__fp_Bigg_middle_shift_int=\count107
-\c__fp_Bigg_trailing_shift_int=\count108
-\l__sort_length_int=\count109
-\l__sort_min_int=\count110
-\l__sort_top_int=\count111
-\l__sort_max_int=\count112
-\l__sort_true_max_int=\count113
-\l__sort_block_int=\count114
-\l__sort_begin_int=\count115
-\l__sort_end_int=\count116
-\l__sort_A_int=\count117
-\l__sort_B_int=\count118
-\l__sort_C_int=\count119
-\l__tl_build_start_index_int=\count120
-\l__tl_build_index_int=\count121
-\l__tl_analysis_normal_int=\count122
-\l__tl_analysis_index_int=\count123
-\l__tl_analysis_nesting_int=\count124
-\l__tl_analysis_type_int=\count125
-\l__regex_internal_a_int=\count126
-\l__regex_internal_b_int=\count127
-\l__regex_internal_c_int=\count128
-\l__regex_balance_int=\count129
-\l__regex_group_level_int=\count130
-\l__regex_mode_int=\count131
-\c__regex_cs_in_class_mode_int=\count132
-\c__regex_cs_mode_int=\count133
-\l__regex_catcodes_int=\count134
-\l__regex_default_catcodes_int=\count135
-\c__regex_catcode_L_int=\count136
-\c__regex_catcode_O_int=\count137
-\c__regex_catcode_A_int=\count138
-\c__regex_all_catcodes_int=\count139
-\l__regex_show_lines_int=\count140
-\l__regex_min_state_int=\count141
-\l__regex_max_state_int=\count142
-\l__regex_left_state_int=\count143
-\l__regex_right_state_int=\count144
-\l__regex_capturing_group_int=\count145
-\l__regex_min_pos_int=\count146
-\l__regex_max_pos_int=\count147
-\l__regex_curr_pos_int=\count148
-\l__regex_start_pos_int=\count149
-\l__regex_success_pos_int=\count150
-\l__regex_curr_char_int=\count151
-\l__regex_curr_catcode_int=\count152
-\l__regex_last_char_int=\count153
-\l__regex_case_changed_char_int=\count154
-\l__regex_curr_state_int=\count155
-\l__regex_step_int=\count156
-\l__regex_min_active_int=\count157
-\l__regex_max_active_int=\count158
-\l__regex_replacement_csnames_int=\count159
-\l__regex_match_count_int=\count160
-\l__regex_min_submatch_int=\count161
-\l__regex_submatch_int=\count162
-\l__regex_zeroth_submatch_int=\count163
-\g__regex_trace_regex_int=\count164
+\l_keys_choice_int=\count100
+\c__fp_leading_shift_int=\count101
+\c__fp_middle_shift_int=\count102
+\c__fp_trailing_shift_int=\count103
+\c__fp_big_leading_shift_int=\count104
+\c__fp_big_middle_shift_int=\count105
+\c__fp_big_trailing_shift_int=\count106
+\c__fp_Bigg_leading_shift_int=\count107
+\c__fp_Bigg_middle_shift_int=\count108
+\c__fp_Bigg_trailing_shift_int=\count109
+\l__sort_length_int=\count110
+\l__sort_min_int=\count111
+\l__sort_top_int=\count112
+\l__sort_max_int=\count113
+\l__sort_true_max_int=\count114
+\l__sort_block_int=\count115
+\l__sort_begin_int=\count116
+\l__sort_end_int=\count117
+\l__sort_A_int=\count118
+\l__sort_B_int=\count119
+\l__sort_C_int=\count120
+\l__tl_build_start_index_int=\count121
+\l__tl_build_index_int=\count122
+\l__tl_analysis_normal_int=\count123
+\l__tl_analysis_index_int=\count124
+\l__tl_analysis_nesting_int=\count125
+\l__tl_analysis_type_int=\count126
+\l__regex_internal_a_int=\count127
+\l__regex_internal_b_int=\count128
+\l__regex_internal_c_int=\count129
+\l__regex_balance_int=\count130
+\l__regex_group_level_int=\count131
+\l__regex_mode_int=\count132
+\c__regex_cs_in_class_mode_int=\count133
+\c__regex_cs_mode_int=\count134
+\l__regex_catcodes_int=\count135
+\l__regex_default_catcodes_int=\count136
+\c__regex_catcode_L_int=\count137
+\c__regex_catcode_O_int=\count138
+\c__regex_catcode_A_int=\count139
+\c__regex_all_catcodes_int=\count140
+\l__regex_show_lines_int=\count141
+\l__regex_min_state_int=\count142
+\l__regex_max_state_int=\count143
+\l__regex_left_state_int=\count144
+\l__regex_right_state_int=\count145
+\l__regex_capturing_group_int=\count146
+\l__regex_min_pos_int=\count147
+\l__regex_max_pos_int=\count148
+\l__regex_curr_pos_int=\count149
+\l__regex_start_pos_int=\count150
+\l__regex_success_pos_int=\count151
+\l__regex_curr_char_int=\count152
+\l__regex_curr_catcode_int=\count153
+\l__regex_last_char_int=\count154
+\l__regex_case_changed_char_int=\count155
+\l__regex_curr_state_int=\count156
+\l__regex_step_int=\count157
+\l__regex_min_active_int=\count158
+\l__regex_max_active_int=\count159
+\l__regex_replacement_csnames_int=\count160
+\l__regex_match_count_int=\count161
+\l__regex_min_submatch_int=\count162
+\l__regex_submatch_int=\count163
+\l__regex_zeroth_submatch_int=\count164
+\g__regex_trace_regex_int=\count165
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
@@ -168,7 +169,7 @@ Package: expl3 2018/02/21 L3 programming layer (code)
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count165
+\g__driver_image_int=\count166
 \l__driver_tmp_box=\box41
 ))
 Package: xeCJK 2018/02/27 v3.6.1 Typesetting CJK scripts with XeLaTeX
@@ -177,21 +178,21 @@ Package: xeCJK 2018/02/27 v3.6.1 Typesetting CJK scripts with XeLaTeX
 y
 Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen134
-\l__xtemplate_tmp_int=\count166
+\l__xtemplate_tmp_int=\count167
 \l__xtemplate_tmp_muskip=\muskip16
 \l__xtemplate_tmp_skip=\skip49
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2018/02/21 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count167
-\g__xparse_grabber_int=\count168
-\l__xparse_m_args_int=\count169
-\l__xparse_mandatory_args_int=\count170
-\l__xparse_v_nesting_int=\count171
+\l__xparse_current_arg_int=\count168
+\g__xparse_grabber_int=\count169
+\l__xparse_m_args_int=\count170
+\l__xparse_mandatory_args_int=\count171
+\l__xparse_v_nesting_int=\count172
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
 )
-\l__xeCJK_tmp_int=\count172
+\l__xeCJK_tmp_int=\count173
 \l__xeCJK_tmp_box=\box42
 \l__xeCJK_tmp_dim=\dimen135
 \l__xeCJK_tmp_skip=\skip50
@@ -200,9 +201,9 @@ Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
 . 
 . Defining command \xeCJKShipoutHook with sig. '' on line 150.
 .................................................
-\g__xeCJK_space_factor_int=\count173
-\l__xeCJK_begin_int=\count174
-\l__xeCJK_end_int=\count175
+\g__xeCJK_space_factor_int=\count174
+\l__xeCJK_begin_int=\count175
+\l__xeCJK_end_int=\count176
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -249,7 +250,7 @@ Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
 . Defining command \xeCJKResetCharClass with sig. '' on line 668.
 .................................................
 \l__xeCJK_last_skip=\skip51
-\g__xeCJK_node_int=\count176
+\g__xeCJK_node_int=\count177
 \c__xeCJK_CJK_node_dim=\dimen136
 \c__xeCJK_CJK-space_node_dim=\dimen137
 \c__xeCJK_default_node_dim=\dimen138
@@ -259,7 +260,7 @@ Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
 \l__xeCJK_ccglue_skip=\skip52
 \l__xeCJK_ecglue_skip=\skip53
 \l__xeCJK_punct_kern_skip=\skip54
-\l__xeCJK_last_penalty_int=\count177
+\l__xeCJK_last_penalty_int=\count178
 \l__xeCJK_last_bound_dim=\dimen142
 \l__xeCJK_last_kern_dim=\dimen143
 .................................................
@@ -267,7 +268,7 @@ Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
 . 
 . Defining command \xeCJKnobreak with sig. '' on line 1887.
 .................................................
-\l__xeCJK_widow_penalty_int=\count178
+\l__xeCJK_widow_penalty_int=\count179
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -335,7 +336,7 @@ Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
 . 
 . Defining command \setCJKfallbackfamilyfont with sig. 'mom' on line 3033.
 .................................................
-\g__xeCJK_family_int=\count179
+\g__xeCJK_family_int=\count180
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -397,9 +398,9 @@ Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
 . 
 . Defining command \setCJKmathfont with sig. 'om' on line 3844.
 .................................................
-\l__xeCJK_fam_int=\count180
-\g__xeCJK_fam_allocation_int=\count181
-\l__xeCJK_verb_case_int=\count182
+\l__xeCJK_fam_int=\count181
+\g__xeCJK_fam_allocation_int=\count182
+\l__xeCJK_verb_case_int=\count183
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -417,14 +418,14 @@ Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
 (/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count183
-\l__fontspec_language_int=\count184
-\l__fontspec_strnum_int=\count185
-\l__fontspec_tmp_int=\count186
-\l__fontspec_em_int=\count187
-\l__fontspec_emdef_int=\count188
-\l__fontspec_strong_int=\count189
-\l__fontspec_strongdef_int=\count190
+\l__fontspec_script_int=\count184
+\l__fontspec_language_int=\count185
+\l__fontspec_strnum_int=\count186
+\l__fontspec_tmp_int=\count187
+\l__fontspec_em_int=\count188
+\l__fontspec_emdef_int=\count189
+\l__fontspec_strong_int=\count190
+\l__fontspec_strongdef_int=\count191
 \l__fontspec_tmpa_dim=\dimen163
 \l__fontspec_tmpb_dim=\dimen164
 \l__fontspec_tmpc_dim=\dimen165
@@ -637,7 +638,7 @@ other characters in Unicode lower plane
 (/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 )
-\tipaTiiicode=\count191
+\tipaTiiicode=\count192
 \tipasavetokens=\toks14
 \tipachecktokens=\toks15
 
@@ -895,17 +896,70 @@ File: xeCJK.cfg 2018/02/27 v3.6.1 Configuration file for xeCJK package
 ))
 (/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count192
+\c@float@type=\count193
 \float@exts=\toks17
 \float@box=\box45
 \@float@everytoks=\toks18
 \@floatcapt=\box46
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
-)
-\c@question=\count193
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip56
 
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen168
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen169
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen170
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count199
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip17
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks20
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks21
+\eqnshift@=\dimen171
+\alignsep@=\dimen172
+\tagshift@=\dimen173
+\tagwidth@=\dimen174
+\totwidth@=\dimen175
+\lineht@=\dimen176
+\@envbody=\toks22
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
 *************************************************
 * xeCJK warning: "fandol"
 * 
@@ -917,7 +971,7 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 * 
 * Font 'FandolSong-Regular' does not contain script 'CJK'.
 *************************************************
-\g__fontspec_family_FandolSong-Regular_int=\count194
+\g__fontspec_family_FandolSong-Regular_int=\count272
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -935,29 +989,29 @@ ai-Regular}].
 . - 'italic' (m/it) with NFSS spec.: <->"[FandolKai-Regular.otf]/OT"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
 .................................................
-(./作业报告.aux)
-\openout1 = `作业报告.aux'.
+(./document.aux)
+\openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 14.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 14.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    ... okay on input line 14.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -965,83 +1019,176 @@ LaTeX Font Info:    ... okay on input line 22.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 22.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 22.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 22.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 22.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 22.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 22.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 22.
-LaTeX Font Info:    Redeclaring math accent \check on input line 22.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 22.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 22.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 22.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 22.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 14.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 14.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 14.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 14.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 14.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 14.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 14.
+LaTeX Font Info:    Redeclaring math accent \check on input line 14.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 14.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 14.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 14.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 14.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 22.
+(Font)              `operators' in the math version `normal' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 22.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 14.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 22.
+(Font)              `operators' in the math version `bold' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 22.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 22.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 22.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 22.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 22.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 22.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 22.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 22.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 22.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 14.
 
-(./作业报告.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 2.
-)
+[1
+
+] (./document.toc)
 \tf@toc=\write3
-\openout3 = `作业报告.toc'.
+\openout3 = `document.toc'.
 
- [1
+ (./chapter/chapter1.tex [1
 
-] [2] (./作业报告.aux) ) 
+]
+Chapter 1.
+*************************************************
+* fontspec warning: "script-not-exist"
+* 
+* Font 'FandolFang-Regular' does not contain script 'CJK'.
+*************************************************
+\g__fontspec_family_FandolFang-Regular_int=\count273
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FandolFang-Regular(0)' created for font 'FandolFang-Regular'
+. with options [Script={CJK},Extension={.otf}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"[FandolFang-Regular.otf]/OT"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+[2
+
+]
+File: figures/移动通信系统2G_4G发展.png Graphic file (type bmp)
+<figures/移动通信系统2G_4G发展.png>
+
+Overfull \hbox (71.25043pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
+
+File: figures/WCDMA_TD-SCDMA发展.png Graphic file (type bmp)
+<figures/WCDMA_TD-SCDMA发展.png>
+
+Overfull \hbox (71.25043pt too wide) in paragraph at lines 60--61
+ [][] 
+ []
+
+File: figures/CDMA2000发展.png Graphic file (type bmp)
+<figures/CDMA2000发展.png>
+
+Overfull \hbox (68.61595pt too wide) in paragraph at lines 65--66
+ [][] 
+ []
+
+[3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
+
+ []
+
+File: figures/双工模式.png Graphic file (type bmp)
+<figures/双工模式.png>
+
+Overfull \hbox (26.2496pt too wide) in paragraph at lines 130--131
+ [] 
+ []
+
+[5]
+File: figures/通频道距离确定.png Graphic file (type bmp)
+<figures/通频道距离确定.png>
+ [6]
+Overfull \hbox (17.22pt too wide) in paragraph at lines 170--183
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+File: figures/基站发射机位置.png Graphic file (type bmp)
+<figures/基站发射机位置.png>
+
+Overfull \hbox (24.46233pt too wide) in paragraph at lines 235--236
+ [] 
+ []
+
+[8]
+File: figures/信道共用.png Graphic file (type bmp)
+<figures/信道共用.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--269
+
+ []
+
+File: figures/网络结构.png Graphic file (type bmp)
+<figures/网络结构.png>
+[9] [10]
+File: figures/越区切换判定准则.png Graphic file (type bmp)
+<figures/越区切换判定准则.png>
+ [11]
+File: figures/位置区切换过程.png Graphic file (type bmp)
+<figures/位置区切换过程.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--366
+
+ []
+
+File: figures/呼叫传递.png Graphic file (type bmp)
+<figures/呼叫传递.png>
+[12]) [13] (./document.aux) ) 
 Here is how much of TeX's memory you used:
- 18147 strings out of 493007
- 378581 string characters out of 6134605
- 431448 words of memory out of 5000000
- 22061 multiletter control sequences out of 15000+600000
- 533176 words of font info for 52 fonts, out of 8000000 for 9000
+ 18937 strings out of 493007
+ 395566 string characters out of 6134605
+ 442232 words of memory out of 5000000
+ 22807 multiletter control sequences out of 15000+600000
+ 534376 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 46i,6n,64p,10432b,308s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,12n,70p,10436b,392s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 作业报告.pdf (2 pages).
+Output written on document.pdf (14 pages).
