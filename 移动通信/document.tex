@@ -4,16 +4,36 @@
 \usepackage{xeCJK}
 \usepackage{graphicx}
 \graphicspath{{figures/}}
+\usepackage{geometry}
+\geometry{scale=0.8}
 \usepackage{float}
 \usepackage{amsmath}
+\usepackage{hypertoc}
+\usepackage{hyperref}
+\newcommand{\insertImage}[1]{
+\begin{figure}
+	\centering
+	\includegraphics[width=0.7\linewidth]{#1.png}
+	\caption{#1}
+\end{figure}
+}
+\usepackage{xcolor}
+
 % 加深编号
 \setcounter{secnumdepth}{3}
+\newcommand{\insertimage}[1]{
+		\begin{figure}[H]
+			\centering
+			\includegraphics[scale=0.7]{#1.png}
+			\caption{#1}
+		\end{figure}
+	}
 % 标题信息
 \title{移动通信}
 \author{张兴锐}
 \date{2018-3-25}
 \begin{document}
-	\maketitle
+%	\maketitle
 	\tableofcontents
 	% 
 	\input{chapter/chapter1.tex}

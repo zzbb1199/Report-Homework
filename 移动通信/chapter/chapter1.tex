@@ -43,6 +43,7 @@
 	\end{enumerate}
 	\section{常用移动通信系统}
 	\begin{enumerate}
+		\item 蜂窝移动通信系统
 		\item  公共陆地移动通信网络(PLMN)
 		\item 无线市话系统(WUTS)
 		\item 集群系统(专网)--->公安系统，水利系统、交通系统、电力系统、铁路系统。
@@ -50,6 +51,13 @@
 		\item 无线局域网。
 	\end{enumerate}
 	\section{移动通信系统发展}
+	\subsection{各代通信系统特点}
+	\begin{description}
+		\item[第一代] 模拟，仅限语音，仅限宏小区
+		\item[第二代]  数字，语音和数据通信，宏/微小区
+		\item[第三代] 频谱利用率高，传输速率按需分配
+		\item[第四代] 更高的数据速率和更大的系统容量，正交频分复用(OFDM)技术、
+	\end{description}
 	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.7]{移动通信系统2G_4G发展.png}
@@ -60,11 +68,40 @@
 		\includegraphics[scale=0.7]{WCDMA_TD-SCDMA发展.png}
 		\caption{WCDMA\&TD-SCDMA发展}
 	\end{figure}
-	\begin{figure}
+	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.7]{CDMA2000发展.png}
 		\caption{CDMA2000发展}
 	\end{figure}
+	
+	\section{移动通信基本技术}
+		\begin{figure}[H]
+			\centering
+			\includegraphics[scale=1]{信号传输过程.png}
+			\caption{信号传输过程}
+		\end{figure}
+	\begin{description}
+		\item[信源编码技术
+		] 以提高通信有效性为目的而对信源符号进
+		行的变换。
+		\begin{enumerate}
+			\item 波形编码
+			\item 参数编码
+			\item 混合编码
+		\end{enumerate}
+		\item[信道编码技术
+		] 为了减少差错,信道编码器对传输的信息码
+		元按一定的规则加入保护成分(监督元),
+		组成所谓“抗干扰编码”;
+		提高通信系统抗干扰能力,实现可靠通信。\\分组码、卷积码。
+		\item[调制技术
+		] 使要传输的信息适合于信道特征,
+		达到有效、可靠的传输 。\\连续相位调制,线性调制,PSK,QPSK,DQPSK,QAM等。
+		\item[电波传播特性的研究
+		]  总结和建立有普遍性的数学模型,利用这些
+		模型,可以估算一些传播环境中的传播损耗
+		和其它有关的传播参数。
+	\end{description}
 	\section{蜂窝移动通信的组网技术}
 	\subsection{多址接入}
 	\subsubsection{什么是多址接入？}
@@ -72,8 +109,7 @@
 	有限的无线资源,实现不同用户不同地点同时
 	通信,并尽可能减少干扰。
 	\subsubsection{多路复用和多址接入区别}
-	\textbf{相同点:}两者的理论基础都是\textbf{信号的正交分割原理。}
-	
+	\textbf{相同点:}两者的理论基础都是\textbf{信号的正交分割原理。}\\
 	\textbf{不同点:}
 	\begin{itemize}
 		\item \textbf{”点对点“},多路复用
@@ -82,16 +118,48 @@
 	
 	\subsubsection{多址接入分类}
 	\begin{enumerate}
-		\item 频分多址： 第一代移动通信系统；TACS、AMPS。
-		\item 时分多址： 第二代移动通信系统：GSM。
-		\item 码分多址： 第三代移动通信系统：IS-95 CDMA、WCDMA。存在两个重要问题：
+		\item 频分多址： 第一代移动通信系统；TACS、AMPS。\\特点:
+		\begin{itemize}
+			\item 一个频道传送一路电话，一旦给用户分配频道，移动台和基站同时连续不断发射
+			\item 信道带宽较窄。
+			\item 传输速率地，码元持续时间长，与平均延迟扩展相比很大，\textbf{码间干扰不需要均衡}
+			\item 系统简单，但需要一个双工器，同事需要一个RF（射频）滤波器。
+		\end{itemize}
+		展造成的符号间干扰低。
+		\item 时分多址： 第二代移动通信系统：GSM。\\特点：
+		\begin{itemize}
+			\item 多个用户共享一个载波频率，分享不同时隙。
+			\item 分组可以实现不连续发送。
+			\item {\color{red}{由于速率较高，往往需要均衡器。}}
+			\item 需要额外开销，如保护时隙，\textbf{同步}时隙等。
+			\item 按照不同用户提供不同的带宽。
+		\end{itemize}
+		\item 码分多址： 第三代移动通信系统：IS-95 CDMA、WCDMA。\\特点：
+		\begin{itemize}
+			\item 通过不同的码序列来划分物理信道,信道在时间
+			和频率上重合
+			\item 码不但可以区分信道(walsh和OVSF),还可以区分基站(gold)或用户(m序列)
+			\item  CDMA系统的许多用户共享同一频率
+			\item 由于信号被扩展在一较宽频谱上,所以可\textbf{减小多
+			径衰落;}
+			\item 在CDMA系统中,信道数据速率很高,采用分集
+			接收最大比合并技术,可获得最佳的抗多径衰落
+			效果;
+			\item 软切换和有效的宏分集
+			\item  低信号功率谱密度
+		\end{itemize}
+		存在两个重要问题：
 		\begin{enumerate}
 			\item  多址干扰
 			\item  远近效应.
 		\end{enumerate}
-		\item 空分多址。
-		\item OFDMA.正交频分多址
-		\item NOMA，非正交频分多址
+		\item 空分多址。特点:
+		\begin{itemize}
+			\item 实现空间分割的基本技术就是\textbf{自适应阵列天线}，在不同的用户方向上形成不同的波束。
+			\item 有效地克服\textbf{多径干扰和同频道干扰}
+		\end{itemize}
+		\item OFDMA.正交频分多址接入
+		\item NOMA，非正交频分多址接入
 	\end{enumerate}
 	\subsection{工作方式}
 	\begin{enumerate}
@@ -101,31 +169,38 @@
 		频双工方式,即收发信机同时工作;另一
 		方使用双频单工方式,即收发信机交替工
 		作。\textbf{基站-手机}。基站处于全双工，手机处于半双工。
-		\item 全双工：是指通信双方收发信机均同时工
-		作。收信和发信必须\textbf{采用不同的工作频率}，\textbf{打电话}	\\
-		
+		\item 全双工：是指通信双方收发信机均同时工作。收信和发信必须\textbf{采用不同的工作频率}，\textbf{打电话}	\\
 		双工模式:
 		\begin{enumerate}
-		\item 频分双工FDD。
-		\item 时分双工TDD。
+		\item 频分双工FDD：通信双方收发信可同时进行，但收信和发信分别占用两个不同的频率。
+		\item 时分双工TDD:使用相同频率，但不同的时隙进行区分。
 		\end{enumerate}
 		两种模式的区别：
+		
 		\begin{itemize}
+			\item TDD可灵活配置频率,\textbf{使用FDD系统不易使用的零散
+			频段};但为避免与其他无线系统之间的干扰,TDD
+			需预留较大的保护带,影响\textbf{整体频谱利用效率}。
+			\item TDD可以通过调整上下行时隙转换点,改变上下行
+			时隙比例,可\textbf{很好地支持非对称业务}。
+			TDD系统\textbf{收发信道同}频,无法进行干扰隔离,速度
+			越快,衰落变换频率越高,衰落深度越深;相当于
+			混合行驶,容易撞车,因此必须要求\textbf{移动速度不能
+			太高}。
+			\item TDD接收上/下行数据时,不需收发隔离器,只需一
+			个开关即可,降低设备的复
 			\item 由于TDD方式的时间资源\textbf{分别分给了上行和下行,
 			因此TDD方式的发射时间大约只有FDD的一半},如果
 			TDD要发送和FDD同样多的数据,就要\textbf{增大TDD的发
-			送功率。}
-			\item TDD可以通过调整上下行时隙转换点,改变上下行
-			时隙比例,可\textbf{很好地支持非对称业务}。
+			送功率}
 			\item TDD系统上行受限,因此TDD基站的\textbf{覆盖范围明显小}
 			于FDD基站。
-			\item FDD模式的特点是在分离(上下行频率间隔45MHz、
+			\item FDD模式的特点是在分离(上下行频率间隔45MHz
 			190MHz等)的两个对称频率信道上,系统进行接收
 			和传送,用保护频段来分离接收和传送信道。相当
 			于分道行驶,比较顺畅,所以\textbf{FDD速度会更快}。
-			
 		\end{itemize}
-%		\hspace{-5em}
+	
 		\begin{center}
 			\includegraphics[scale=1]{双工模式.png}
 		\end{center}
@@ -133,15 +208,22 @@
 	\subsection{频率复用和蜂窝小区}
 	\subsubsection{移动通信网的区域覆盖方式}
 	\begin{enumerate}
-		\item 小容量的大区制(发射功率大)
-		\item  大容量的小区制,(频率复用)
+		\item 小容量的大区制(发射功率大)，基站发射功率要大，利用分集接收等技术来保证上行链路的通信质量。
+		\item  大容量的小区制,(频率复用),同频干扰问题
 	\end{enumerate}
 	\subsubsection{区群}
+	\begin{minipage}{0.4\linewidth}
+	\textit{要想正多边形无空隙、无重叠地覆盖一个平面的区域，只有\textbf{正三角形、正方形和正六边形三种形状}}
+	\end{minipage}
+	\begin{minipage}{0.4\linewidth}
+		\centering
+		\includegraphics[scale=0.6]{三种形状方案.png}
+	\end{minipage}\\
 	 \textbf{定义:}共同使用全部可用频率的N个小区组成一个区群。\\
 	 \textbf{特点:}
 	 \begin{enumerate}
 	 	\item 同一个小区，使用不同的频率。
-	 	\item 不同小区，可以使用相同频率。
+	 	\item 不同小区，可以使用相对应的频率。
 	 \end{enumerate}
  	\textbf{组成区群的小区数对应的公式}:
  	\begin{eqnarray}
@@ -158,13 +240,13 @@
 	\subsubsection{同频道距离}
 	\textbf{STEPS:}
 	\begin{enumerate}
-		\item 首先垂直六边形的任一边延长$Max{i,j}$个小区。
-		\item 逆时针旋转60°，在延长$Min{i,j}$个小区。
+		\item 首先垂直六边形的任一边延长$Max\{i,j\}$个小区。
+		\item 逆时针旋转60°，在延长$Min\{i,j\}$个小区。
 	\end{enumerate}
 
 	\begin{figure}[H]
 		\centering
-		\includegraphics[scale=0.65]{通频道距离确定.png}
+		\includegraphics[scale=0.8]{通频道距离确定.png}
 		\caption{通频道距离确定}
 	\end{figure}
 	\begin{minipage}[c]{0.8\linewidth}
@@ -190,25 +272,29 @@
 		\label{eq:载干比}
 	\end{gather}
 
-	\text{其中，L为同频干扰小区数} \\
-	n常取4，用Q表示同频复用比例$Q = \frac{D}{R}$。
+	其中，L为同频干扰小区数,由于一般是第一层起主要作用，所以L=6（因为采用的是正六边形），则公式可改写为：
+	\begin{eqnarray}
+	\frac{C}{I} = \frac{(D/R)^n}{L}=\frac{\sqrt{3N}^n}{6} 
+	\end{eqnarray}
+	n常取4，用Q表示同频复用比例$Q = \frac{D}{R}$。注意：\textbf{\(\frac{C}{I}\)带入计算时要去分贝化}。
 	\subsubsection{蜂窝系统容量}
 	通常衡量
-	系统容量的指标是每小区的可用信道数来度量：
+	系统容量的指标是\textbf{每小区的可用信道数来度量}：
 	\begin{equation}
 		n = \frac{B_t}{B_cN}
 	\end{equation}
 	\begin{itemize}
 		\item $B_t$ 系统总带宽
 		\item $B_c$ 单个小区占用的信道带宽
-		\item $N$ 频率复用因子，利用\ref{eq:载干比}计算
-	\end{itemize}
-	\begin{description}
-		\item[FDMA系统] 
-		
+		\item $N$ 频率复用因子，利用\ref{eq:载干比}载干比来计算
 		\begin{equation*}
 			N = \sqrt{\frac{2}{3}\times \frac{C}{I}}
 		\end{equation*}
+	\end{itemize}
+		
+	\begin{description}
+		\item[FDMA系统] 		
+
 		
 		\begin{equation}
 		n = \frac{B_t}{B_c\sqrt{\frac{2}{3}\times \frac{C}{I}}}
@@ -218,12 +304,29 @@
 			n = \frac{B_t}{B_c^{'}\sqrt{\frac{2}{3}\times \frac{C}{I}}} \notag \\
 			B_c^{'} = \frac{B_c}{m}
 		\end{gather}
-		m是每一频道包含的时隙数。
+		\begin{itemize}
+			\item 	$B_c^{'}$是等效带宽。相当于原来一个频道带宽又分给了多个时隙。
+			\item  		m是每一频道包含的时隙数。
+		\end{itemize}
+		TDMA采用了数字技术，要求的载干比比FDMA的小，N值也比较小。
 		\item[CDMA系统] 
 		\begin{equation}
-		n = [1+\frac{W/R_b}{E_b/I_0}\times \frac{1}{d}]\times G F
+		n = [1+\frac{W/R_b}{E_b/I_0}\times \frac{1}{d}]\times G\cdot F
 		\end{equation}
+		\begin{itemize}
+			\item  $E_b/I_0$
+			是归一化信噪比,计算时需要\textbf{去分贝化}
+			\item $W/R_b$是系统的扩频因子,即系统的处理增益。
+			\item d是占空比
+			\item G为扇区分区系数
+			\item F信道复用系数
+		\end{itemize}
 	\end{description}
+	\subsubsection{几种蜂窝系统的比较}
+	\begin{itemize}
+		\item FMDA和TDMA是频率受限系统，影响因素：频率与载干比
+		\item CMDA是干扰受限系统，影响因素：扩频处理增益，信噪比，占空比，扇区分区系数，信道复用系数等。
+	\end{itemize}
 	\subsubsection{提高蜂窝系统容量的方法
 	}
 	\begin{enumerate}
@@ -235,24 +338,56 @@
 			\includegraphics[scale=0.7]{基站发射机位置.png}
 			\end{center}
 		\end{enumerate}
-		\item 小区分裂
-		\item 划分扇区
-		\item 新微小区
+		\item 小区分裂,\textbf{增加信道的复用次数}。
+		\item 划分扇区，\textbf{使用定向天线减少同频干扰}。
+		\item 新微小区，在微小区见运动时\textbf{不需要进行越区切换}，保证覆盖范围的同时也\textbf{减小了同频干扰}。
 	\end{enumerate}
 	\subsection{多信道共用技术}
 	\begin{itemize}
-		\item 信道 --> (1)控制信道CHH，（2）业务信道THH
-		\item 信道共用
+		\item 信道 --> (1)控制信道CCH，（2）业务信道THH
+		\item 信道共用，原因：移动通信的频率资源十分紧缺,一个基站不可能为
+		其所覆盖小区的每一个移动台预留一个专用的信道,
+		而是采用信道共用的方式。
 		\begin{center}
 			\includegraphics[width=\linewidth,height=4cm]{信道共用.png}
 		\end{center}
 	\end{itemize}
-	\subsection{话务量}
+	\subsubsection{话务量}
+	\begin{itemize}
+		\item 话音业务量，用话务量描述。
+		\begin{itemize}
+			\item 流入话务量$A = Ct$,C为单位时间内平均发生的呼叫次数，t为每次呼叫平均占用信道时间。
+			\item 完成话务量$A_0=C_0t_0$,$A_0$完成话务量，$C_0$为呼叫成功次数，t伪呼叫平均占用信道时间。
+		\end{itemize}
+		\item 非话音业务量，用信息流量来描述。
+	\end{itemize}
+	话务量是通过链路到达交换机的\textbf{总业务量}。现在要求系统能够容纳的系统用户数量，首先求解单个用户所需话务量：
+	单个用户忙时话务量:
+	\begin{eqnarray}
+		\alpha = CTk\frac{1}{3600}
+	\end{eqnarray}
+	其中，C，T同上，k为集中系数，即忙时话务量对全天话务量之比。
+	所以：
+	n个共用信道所能容纳的总用户数：
+	\begin{eqnarray}
+		N = mn = \frac{A}{\alpha}
+	\end{eqnarray}
+	每个共用信道所能容量的用户数m:
+	\begin{eqnarray}
+		m = \frac{A/n}{\alpha}
+	\end{eqnarray}
+	n为共用信道数个数。
+	\subsubsection{呼损率和爱尔兰公式}
+	流入话务量-完成话务量=损失话务量。\textbf{呼损率B=}损失话务量/流入话务量：
+	\begin{eqnarray}
+		B = \frac{A-A_0}{A}
+	\end{eqnarray}
+	损失话务量越低服务质量越高,公网长取0.05，要提高B只有降低A。\\
 	话务理论的经典公式-爱尔兰呼损公式：
 	\begin{equation}
-	B = \frac{A^n/n}{\sum_{i=0}^{n}A^i/i!}
+		B = \frac{A^n/n}{\sum_{i=0}^{n}A^i/i!}
 	\end{equation}
-	其中
+	其中，
 	\begin{itemize}
 		\item B，呼损率
 		\item A,流入话务量
@@ -262,9 +397,8 @@
 	\begin{equation}
 	\eta = \frac{A(1-B)}{n}
 	\end{equation}
-	用户忙时话务量:$\alpha = CTk\frac{1}{3600}$ \\
-	每个共用信道所能容量的用户数:$m = \frac{A/n}{\alpha}$ \\
-	n个共用信道所能容纳的总用户数：$N = mn = \frac{A}{\alpha}$	\\
+
+
 	 \textbf{用途:}\\
 	 \begin{itemize}
 	 	\item 计算共用信道n。
