@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.4.30)  2 MAY 2018 10:52
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.4.30)  2 MAY 2018 11:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1399,26 +1399,30 @@ File: figures/位置区切换过程.png Graphic file (type bmp)
  [13]
 File: figures/呼叫传递.png Graphic file (type bmp)
 <figures/呼叫传递.png>
+) (./chapter/chapter2.tex [14]
+Chapter 2.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
- [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 46.
+ [15
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
  (./document.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 45.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 45.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 46.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 46.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
  ) 
 Here is how much of TeX's memory you used:
- 25956 strings out of 493007
- 504530 string characters out of 6134605
+ 25971 strings out of 493007
+ 505341 string characters out of 6134605
  577542 words of memory out of 5000000
- 29749 multiletter control sequences out of 15000+600000
+ 29761 multiletter control sequences out of 15000+600000
  533591 words of font info for 62 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  46i,12n,70p,10436b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on document.pdf (14 pages).
+Output written on document.pdf (15 pages).

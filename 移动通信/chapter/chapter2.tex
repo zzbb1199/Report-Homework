@@ -1,0 +1,65 @@
+\chapter{移动信道的传播特性于模型}
+\section{无线电波传播方式
+}
+移动通信使用\textbf{甚高频(VHF)}和\textbf{特高频(UHF)}等频段传输.
+\begin{description}
+	\item[VHF:] 1--10m，30--300MHZ
+	\item[UHF:] 10--100CM,300MHZ--3GHZ
+\end{description}
+当频率f > 30 MHZ时，传播通路主要有：直射波、反射波、地表面波。
+\subsection{直射波}
+直射波传播，可按自由空间传播来考虑。
+\begin{description}
+	\item[条件：] 自由空间传播是指天线周围为无
+	限大真空时的电波传播
+	\item[现象] 不发生反射、折射、绕射、散射
+	和吸收等现象,但电波经过一段路径传播之
+	后,能量仍会衰减，这是由电磁波能量扩散而引起的传播损耗
+	(弥散损耗或称为自由空间传播损耗)。
+	\begin{eqnarray}
+	L_{fs}(dB) = 32.44 + 20lg_d(km)+20lg_f(MHZ)
+	\end{eqnarray}
+\end{description}
+传播接受能量排序：直射>（反射、绕射）>散射。
+\subsection{反射波}
+物体尺寸比传输波长大得多（如地面，墙面），则容易发生镜面反射。
+\subsection{绕射波}
+尖利边缘(山丘)。
+
+余隙：障碍物顶点P到直射线TR的距离，称为菲涅尔余隙。阻挡时为负（即当障碍物高于TR线时），反之为正。\textbf{附加损耗可通过查表得到}，该损耗和相对余隙$x/x1$有关，其中\(x1\)第一菲涅尔半径，x为余隙长度。
+\begin{eqnarray}
+x_1 = \sqrt{\frac{\lambda d_1d_2}{d_1+d_2}}
+\end{eqnarray}
+\subsection{散射}
+比传输波长小的多的物体(粗
+糙表面、不规则物体),并且单位体积内阻挡体的个数很堵的情况。
+\subsection{反射、绕射和散射的关系}
+\begin{tabular}{|c|c|}
+	\hline
+		&阻挡体	\\
+		\hline
+		反射	&	比传输波长大的多的物体(地
+		面、墙面)	\\
+				\hline
+		绕射	&	尖利边缘(山丘)\\
+				\hline
+		散射	&	比传输波长小的多的物体(粗
+		糙表面、不规则物体)	\\
+				\hline
+\end{tabular}
+
+\section{移动信道的特性
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
