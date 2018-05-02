@@ -17,6 +17,11 @@
 	\caption{#1}
 \end{figure}
 }
+\newcounter{mycounter}[subsubsection]
+\newcommand{\subsubsubsection}[1]{
+	\stepcounter{mycounter}
+	\paragraph{\themycounter #1 \\}
+}
 \usepackage{xcolor}
 
 % 加深编号

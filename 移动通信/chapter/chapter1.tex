@@ -405,6 +405,7 @@
 	 	\item 计算总用户量M。
 	 \end{itemize}
 	\subsection{网络结构}
+	一般而言，通信网由\textbf{核心网}和\textbf{接入网组成}
 	\begin{figure}[H]
 		\centering
 		\includegraphics[width=0.8\linewidth]{网络结构.png}
@@ -413,7 +414,9 @@
 	\begin{enumerate}
 		\item MS--移动台。如：手机，车载终端。
 		\item BTS--基站收发信机。处理网络侧的无线信号收发。和MS直接交互。
-		\item BSC--基站控制器。一个BSC连接1--255个BTS。
+		\item BSC--基站控制器。一个BSC连接1--255个BTS，是连接无线网
+		和地面核心网之间的重要桥梁
+		。
 		\item MSC--移动交换中心。MSC与VLR一一对应，工程上又称为MSC/VLR。MSC的主要功能有：
 		\begin{enumerate}
 			\item 路由管理
@@ -423,8 +426,8 @@
 		\end{enumerate}
 		\item VLR--访问位置寄存器，功能：
 		\begin{enumerate}
-			\item MS漫游号码管理。
-			\item TMSI分配与管理。(临时用户移动用户表示，移动台地址)
+			\item MS漫游号码（ MSRN）管理。
+			\item TMSI分配与管理。(临时用户移动用户标识，移动台地址)
 			\item 用户参数管理
 			\item 用户鉴权。
 			\item HLR更新。
@@ -435,35 +438,58 @@
 		\begin{enumerate}
 			\item 管理和维护在HLR中等级注册的所有用户的参数。用户的MSISDN号码(被叫号码，如公司里的短号)；;用户定制的业务信息;智能业务(VPN
 			组网等);IMSI号码(SIM卡号，唯一)。
-			\item 计费管理
-			\item VLR更新。
+			\item 计费管理，计费信息、通话时长、收发短信数量等
+			\item VLR更新，更新数据库中用户当前所在VLR的地址,并
+			向该VLR发送用户相关参数,比如用户地址的业务信息
 		\end{enumerate}
 		\item AuC--鉴权认证中心。管理用户的IMSI、密钥、加解密参数、鉴权参数。
+		\item GMSC--关口移动交换中心，完成网
+		间互联互通,通常无需配置VLR
+		\item SMS-IWMSC--短消息业务互通移动交换中心。处理网络中短信业务的路由。
+		\item SMC--短消息中心，对本地网络中用户短消息进行存储转发。
+		\item EIR--设备标识寄存器，用于存储MS的IMEI。
 	\end{enumerate}
+	\subsubsection{网络接口}
+	Um接口是MS和BTS之间的接口，参考OSI7层模型，分为物理层，数据链路层，网路层。是蜂窝移动通信系统中最复杂，最具开放性的一个接口。
 	\subsection{网络的控制与管理}
-	\textbf{移动性管理功能：}移动从一个位置区漫游到另一个位置
-	区时,网络中的有关位置寄存器要随之对移动台
-	的位置信息进行登记、修改或删除 \\
-	\textbf{越区：}移动台在\textbf{通过过程中}，MS从一个BTS服务区进入另一个BTS服务区，MS与原BTS之间无线链路转到MS与新BTS之间的无线链路上来。
-	\subsubsection{越区切换类型}
+	\begin{description}
+		\item[连接控制（管理）功能] 当某一移动用户发起呼叫时，移动通信网络经过一系列预定程序控制，建立主/被通信链路，提供通信服务。这一个过程被称为接续过程，是移动通信系统的连接控制（管理）功能。
+		\item[移动性管理功能] 移动从一个位置区漫游到另一个位置
+		区时,网络中的有关位置寄存器要随之对移动台
+		的位置信息进行登记、修改或删除 。如果用户是\textbf{在通信过程中}\textbf{越区}，网络要在不影响用户通信的情况下，控制该移动台进行越区切换。这种功能就是移动通信系统的移动管理功能。
+		\item[无线资源管理] 目标是在保证通信质量的条
+		件下,尽可能提高通信系统的频谱利用率和通信
+		容量。
+		
+	\end{description}
+
+	\subsubsection{越区切换}
+	{越区：移动台\textbf{在通过过程中},MS 从一个 BTS 服务区进入另一个 BTS 服务区,MS 与原 BTS 之间无线链路转到 MS 与新 BTS 之间的无线链路上来}
+	\subsubsubsection{越区切换类型}
 	\begin{enumerate}
 		\item 硬切换：断开与原BTS的链接，再建立和新BTS的链接。GSM
 		\item 软切换：先建立与新BTS的链接，再断开和原BTS的连接。CDMA
-		\item 接力切换。TD-SCDMA。
+		\item 接力切换,断开和原BTS的连接和建立和新BTS的连
+		接象接力比赛交接棒,TD-SCDMA。
 	\end{enumerate}
-	\subsubsection{越区切换的判定准则}
-	\begin{enumerate}
-		\item 相对信号强度准则。
-		\item 门限规定的相对信号强度准则。
-		\item 具有滞后余量的相对信号强度准则。
-		\item 具有门限规定和滞后余量的相对信号强度准则。商业
-	\end{enumerate}
-	\begin{figure}[H]
-		\centering
-		\includegraphics[width=\linewidth]{越区切换判定准则.png}
-		\caption{越区切换判定准则}
-	\end{figure}
-	\subsubsection{越区切换的控制策略
+	\subsubsubsection{越区切换的判定准则}
+	\begin{minipage}{0.5\linewidth} 
+		\begin{enumerate}
+			\item 相对信号强度准则。
+			\item 门限规定的相对信号强度准则。
+			\item 具有滞后余量的相对信号强度准则。
+			\item 具有门限规定和滞后余量的相对信号强度准则。商业
+		\end{enumerate}
+	\end{minipage}
+	\begin{minipage}{0.5\linewidth}
+		\begin{figure}[H]
+			\centering
+			\includegraphics[width=\linewidth]{越区切换判定准则.png}
+			\caption{越区切换判定准则}
+		\end{figure}
+	\end{minipage}
+	
+	\subsubsubsection{越区切换的控制策略
 	}
 	\begin{enumerate}
 		\item 移动控制,测量和判定过程全部由MS完成;
@@ -473,35 +499,54 @@
 		\item 移动台辅助控制,测量由移动台来完成,判决
 		由网络来完成。
 	\end{enumerate}
-	\subsubsection{越区切换时的信道分配
-	}
-	为了使得越区失败的概率尽量小,常用
-	的做法是在每个小区预留部分信道专门用
-	于越区切换。
+	\subsubsubsection{越区切换时的信道分配}
+	\begin{description}
+		\item[方法：] 为了使得越区失败的概率尽量小,常用
+		的做法是在每个小区预留部分信道专门用
+		于越区切换。
+		\item [特点：] 可用新信道数，增加了呼损率，但减少了通话被中断的概率。
+	\end{description}
+
 	\subsubsection{位置管理}
-	\begin{enumerate}
-		\item \textbf{位置登记:}当用户开关机或者在位置区
-		(LAI或REG\_ZONE(CDMA))之间移动或者经
-		历了一个固定的时间间隔的时候,移动台需
-		要向网络报告它的位置.开机登记、关机登记、基于时间登记、\\
+	主要依靠VLR（管理位置区的移动用户）,HLR（存储用户信息）两个寄存器完成。
+	\begin{itemize}
+		\item \textbf{位置登记:}当用户\textbf{1.开关机}或者在\textbf{2.位置区\footnote{在组网时，基站需要设置一个LAI（位置区识别码），配置有相同LAI的基站构成一个位置区}
+		(LAI或REG\_ZONE(CDMA))之间移动}或者经
+		历了一个\textbf{3.固定的时间间隔}的时候,移动台需
+		要向网络报告它的位置.
+		\item \textbf{类型}：开机登记、关机登记、基于时间登记、
 		基于位置区变更登记.
-		当一个移动终端(MT)进入一个新的RA时, 位置
-		登记过程分为三个步骤:
-		\begin{itemize}
-			\item  在管理新RA的新VLR中登记MT;
-			\item  修改HLR中记录服务该MT的新VLR的ID;
-			\item 在旧VLR和MSC中注销该MT。
-		\end{itemize}
-		\textbf{具体过程:}\\
-		\begin{figure}[H]
-			\centering
-			\includegraphics[width=\linewidth]{位置区切换过程.png}
-			\caption{位置区切换过程}
-		\end{figure}
-	\item 呼叫传递:
+	\end{itemize}
+	当一个移动终端(MT)进入一个新的LA时, 位置
+	登记过程分为三个步骤:
+	\begin{itemize}
+		\item  在管理新LA的新VLR中登记MT;
+		\item  修改HLR中记录服务该MT的新VLR的ID;
+		\item 在旧VLR和MSC中注销该MT。
+	\end{itemize}
+	\textbf{位置登记具体过程:共6步}
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=\linewidth]{位置区切换过程.png}
+		\caption{位置区切换过程}
+	\end{figure}
+	\textbf{VLR2是如何知道HLR位置？}
+	
+	MS发起位置登记请求有两种情况：
+	\begin{itemize}
+		\item 使用IMSI发起请求，则VLR2可直接通过IMSI判断出HLR位置。
+		\item 使用TMSI发起请求，则VLR2可找到原来分配该TMSI的VLR，VLR2通过该TMSI联系VLR1，并从VLR1获取MS的IMSI，从而判断出HLR位置。
+	\end{itemize}
+	\textbf{呼叫转移具体过程:共7步}
 	\begin{figure}[H]
 		\centering
 		\includegraphics[width=\linewidth]{呼叫传递.png}
 		\caption{呼叫传递过程}
 	\end{figure}
-	\end{enumerate}
+	\noindent  \textbf{位置区设置问题}
+	\begin{description}
+		\item[位置区大小] 从\textbf{位置登记}来看，位置区越大越好，因为这样可以较少MS跨区移动概率。从\textbf{呼叫传递}来看，位置区越小越好，因为
+		在VLR进行寻呼MS时，寻呼被叫MS所浪费的寻呼资源就越少。
+		\item[位置区划分] 相邻位置区之间用户移动的概率尽量小。避免一个位置区跨越两个或多个BSC的情况。
+	\end{description}
+	

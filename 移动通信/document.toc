@@ -24,9 +24,11 @@
 \contentsline {subsubsection}{\numberline {1.5.4.1}话务量}{10}{subsubsection.1.5.4.1}
 \contentsline {subsubsection}{\numberline {1.5.4.2}呼损率和爱尔兰公式}{10}{subsubsection.1.5.4.2}
 \contentsline {subsection}{\numberline {1.5.5}网络结构}{11}{subsection.1.5.5}
+\contentsline {subsubsection}{\numberline {1.5.5.1}网络接口}{12}{subsubsection.1.5.5.1}
 \contentsline {subsection}{\numberline {1.5.6}网络的控制与管理}{12}{subsection.1.5.6}
-\contentsline {subsubsection}{\numberline {1.5.6.1}越区切换类型}{12}{subsubsection.1.5.6.1}
-\contentsline {subsubsection}{\numberline {1.5.6.2}越区切换的判定准则}{12}{subsubsection.1.5.6.2}
-\contentsline {subsubsection}{\numberline {1.5.6.3}越区切换的控制策略 }{13}{subsubsection.1.5.6.3}
-\contentsline {subsubsection}{\numberline {1.5.6.4}越区切换时的信道分配 }{13}{subsubsection.1.5.6.4}
-\contentsline {subsubsection}{\numberline {1.5.6.5}位置管理}{13}{subsubsection.1.5.6.5}
+\contentsline {subsubsection}{\numberline {1.5.6.1}越区切换}{12}{subsubsection.1.5.6.1}
+\contentsline {paragraph}{1越区切换类型 \\}{12}{section*.2}
+\contentsline {paragraph}{2越区切换的判定准则 \\}{12}{section*.3}
+\contentsline {paragraph}{3越区切换的控制策略 \\}{13}{section*.4}
+\contentsline {paragraph}{4越区切换时的信道分配 \\}{13}{section*.5}
+\contentsline {subsubsection}{\numberline {1.5.6.2}位置管理}{13}{subsubsection.1.5.6.2}
