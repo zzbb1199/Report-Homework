@@ -1,6 +1,7 @@
 
 \documentclass[a4paper ]{report}
 % 导言区
+\usepackage{amsmath}
 \usepackage{xeCJK}
 \usepackage{graphicx}
 \graphicspath{{figures/}}
@@ -10,6 +11,8 @@
 \usepackage{amsmath}
 \usepackage{hypertoc}
 \usepackage{hyperref}
+\usepackage{array}
+
 \newcommand{\insertImage}[1]{
 \begin{figure}
 	\centering
@@ -18,9 +21,11 @@
 \end{figure}
 }
 \newcounter{mycounter}[subsubsection]
+
+\newcommand{\redbf}[1]{\color{red}{\text{#1}}}
 \newcommand{\subsubsubsection}[1]{
 	\stepcounter{mycounter}
-	\paragraph{\themycounter #1 \\}
+	\paragraph{\arabic{mycounter} \hspace{1pt} #1 }\hspace{0.1pt} \\
 }
 \usepackage{xcolor}
 
@@ -41,6 +46,7 @@
 %	\maketitle
 	\tableofcontents
 	% 
-	\input{chapter/chapter1.tex}
-	\input{chapter/chapter2.tex}
+%	\input{chapter/chapter1.tex}
+%	\input{chapter/chapter2.tex}
+	\input{chapter/chapter3.tex}
 \end{document}
