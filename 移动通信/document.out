@@ -1,2 +1,14 @@
-\BOOKMARK [1][-]{section.0.1}{RAKE接收机}{}% 1
-\BOOKMARK [1][-]{section.0.2}{跳频扩频通信系统}{}% 2
+\BOOKMARK [0][-]{chapter.1}{GSM移动通信系统}{}% 1
+\BOOKMARK [1][-]{section.1.1}{GSM总体结构}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{系统结构}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{协议栈和接口}{section.1.1}% 4
+\BOOKMARK [1][-]{section.1.2}{无线信道}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.2.1}{干扰载波比}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.2}{频率复用方式}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.3}{无线帧结构}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.4}{逻辑信道}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.5}{时隙格式}{section.1.2}% 10
+\BOOKMARK [2][-]{subsection.1.2.6}{交织}{section.1.2}% 11
+\BOOKMARK [2][-]{subsection.1.2.7}{逻辑信道与物理信道映射}{section.1.2}% 12
+\BOOKMARK [1][-]{section.1.3}{呼叫处理流程}{chapter.1}% 13
+\BOOKMARK [1][-]{section.1.4}{通信安全}{chapter.1}% 14
