@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.4.22)  9 MAY 2018 12:25
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.4.22)  15 MAY 2018 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1247,7 +1247,7 @@ LaTeX Info: Redefining \nameref on input line 45.
 \tf@toc=\write4
 \openout4 = `document.toc'.
 
- (./chapter/chapter4.tex
+ (./chapter/chapter1.tex
 (d:/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
@@ -1256,13 +1256,698 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ]
 Chapter 1.
+*************************************************
+* fontspec warning: "script-not-exist"
+* 
+* Font 'FandolFang-Regular' does not contain script 'CJK'.
+*************************************************
+\g__fontspec_family_FandolFang-Regular_int=\count176
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'FandolFang-Regular(0)' created for font 'FandolFang-Regular'
+. with options [Script={CJK},Extension={.otf}].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"[FandolFang-Regular.otf]/OT"
+. - 'small caps'  (m/sc) with NFSS spec.: 
+.................................................
+[2
+
+]
+
+LaTeX Warning: File `移动通信系统2G_4G发展.png' not found on input line 63.
+
+! Unable to load picture or PDF file '移动通信系统2G_4G发展.png'.
+<to be read again> 
+                   }
+l.63 ...le=0.7]{移动通信系统2G_4G发展.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+File: 移动通信系统2G_4G发展.png Graphic file (type QTm)
+<use  "移动通信系统2G_4G发展.png" >
+! Unable to load picture or PDF file '移动通信系统2G_4G发展.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.63 ...le=0.7]{移动通信系统2G_4G发展.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+LaTeX Warning: File `WCDMA_TD-SCDMA发展.png' not found on input line 68.
+
+! Unable to load picture or PDF file 'WCDMA_TD-SCDMA发展.png'.
+<to be read again> 
+                   }
+l.68 ...phics[scale=0.7]{WCDMA_TD-SCDMA发展.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+File: WCDMA_TD-SCDMA发展.png Graphic file (type QTm)
+<use  "WCDMA_TD-SCDMA发展.png" >
+! Unable to load picture or PDF file 'WCDMA_TD-SCDMA发展.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.68 ...phics[scale=0.7]{WCDMA_TD-SCDMA发展.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+LaTeX Warning: File `CDMA2000发展.png' not found on input line 73.
+
+! Unable to load picture or PDF file 'CDMA2000发展.png'.
+<to be read again> 
+                   }
+l.73 ...udegraphics[scale=0.7]{CDMA2000发展.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+File: CDMA2000发展.png Graphic file (type QTm)
+<use  "CDMA2000发展.png" >
+! Unable to load picture or PDF file 'CDMA2000发展.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.73 ...udegraphics[scale=0.7]{CDMA2000发展.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+LaTeX Warning: File `信号传输过程.png' not found on input line 80.
+
+! Unable to load picture or PDF file '信号传输过程.png'.
+<to be read again> 
+                   }
+l.80 ...egraphics[scale=1]{信号传输过程.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+File: 信号传输过程.png Graphic file (type QTm)
+<use  "信号传输过程.png" >
+! Unable to load picture or PDF file '信号传输过程.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.80 ...egraphics[scale=1]{信号传输过程.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[3] [4]
+
+LaTeX Warning: File `双工模式.png' not found on input line 205.
+
+! Unable to load picture or PDF file '双工模式.png'.
+<to be read again> 
+                   }
+l.205 ...ncludegraphics[scale=1]{双工模式.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+File: 双工模式.png Graphic file (type QTm)
+<use  "双工模式.png" >
+! Unable to load picture or PDF file '双工模式.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.205 ...ncludegraphics[scale=1]{双工模式.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+LaTeX Font Warning: Font shape `TU/FandolSong-Regular(0)/bx/it' undefined
+(Font)              using `TU/FandolSong-Regular(0)/bx/n' instead on input line
+ 216.
+
+
+LaTeX Warning: File `三种形状方案.png' not found on input line 220.
+
+! Unable to load picture or PDF file '三种形状方案.png'.
+<to be read again> 
+                   }
+l.220 ...aphics[scale=0.6]{三种形状方案.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+File: 三种形状方案.png Graphic file (type QTm)
+<use  "三种形状方案.png" >
+! Unable to load picture or PDF file '三种形状方案.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.220 ...aphics[scale=0.6]{三种形状方案.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[5]
+
+LaTeX Warning: File `通频道距离确定.png' not found on input line 249.
+
+! Unable to load picture or PDF file '通频道距离确定.png'.
+<to be read again> 
+                   }
+l.249 ...ics[scale=0.8]{通频道距离确定.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+File: 通频道距离确定.png Graphic file (type QTm)
+<use  "通频道距离确定.png" >
+! Unable to load picture or PDF file '通频道距离确定.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.249 ...ics[scale=0.8]{通频道距离确定.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+Overfull \hbox (17.21999pt too wide) in paragraph at lines 252--265
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+
+LaTeX Warning: Reference `eq:载干比' on page 6 undefined on input line 289.
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+
+ []
+
+
+LaTeX Warning: File `基站发射机位置.png' not found on input line 338.
+
+! Unable to load picture or PDF file '基站发射机位置.png'.
+<to be read again> 
+                   }
+l.338 ...ics[scale=0.7]{基站发射机位置.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+File: 基站发射机位置.png Graphic file (type QTm)
+<use  "基站发射机位置.png" >
+! Unable to load picture or PDF file '基站发射机位置.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.338 ...ics[scale=0.7]{基站发射机位置.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+LaTeX Warning: File `信道共用.png' not found on input line 352.
+
+! Unable to load picture or PDF file '信道共用.png'.
+<to be read again> 
+                   }
+l.352 ...=\linewidth,height=4cm]{信道共用.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.352 ...=\linewidth,height=4cm]{信道共用.png}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.352 ...=\linewidth,height=4cm]{信道共用.png}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: 信道共用.png Graphic file (type QTm)
+<use  "信道共用.png" >
+! Unable to load picture or PDF file '信道共用.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.352 ...=\linewidth,height=4cm]{信道共用.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+
+ []
+
+
+LaTeX Warning: File `网络结构.png' not found on input line 411.
+
+! Unable to load picture or PDF file '网络结构.png'.
+<to be read again> 
+                   }
+l.411 ...cs[width=0.8\linewidth]{网络结构.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.411 ...cs[width=0.8\linewidth]{网络结构.png}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: 网络结构.png Graphic file (type QTm)
+<use  "网络结构.png" >
+! Unable to load picture or PDF file '网络结构.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.411 ...cs[width=0.8\linewidth]{网络结构.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+
+ []
+
+
+LaTeX Warning: File `越区切换判定准则.png' not found on input line 487.
+
+! Unable to load picture or PDF file '越区切换判定准则.png'.
+<to be read again> 
+                   }
+l.487 ...\linewidth]{越区切换判定准则.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.487 ...\linewidth]{越区切换判定准则.png}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: 越区切换判定准则.png Graphic file (type QTm)
+<use  "越区切换判定准则.png" >
+! Unable to load picture or PDF file '越区切换判定准则.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.487 ...\linewidth]{越区切换判定准则.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+Overfull \hbox (2.22pt too wide) in paragraph at lines 475--491
+[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
+
+ []
+
+[10]
+
+LaTeX Warning: File `位置区切换过程.png' not found on input line 530.
+
+! Unable to load picture or PDF file '位置区切换过程.png'.
+<to be read again> 
+                   }
+l.530 ...th=\linewidth]{位置区切换过程.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.530 ...th=\linewidth]{位置区切换过程.png}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: 位置区切换过程.png Graphic file (type QTm)
+<use  "位置区切换过程.png" >
+! Unable to load picture or PDF file '位置区切换过程.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.530 ...th=\linewidth]{位置区切换过程.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+LaTeX Warning: File `呼叫传递.png' not found on input line 543.
+
+! Unable to load picture or PDF file '呼叫传递.png'.
+<to be read again> 
+                   }
+l.543 ...phics[width=\linewidth]{呼叫传递.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.543 ...phics[width=\linewidth]{呼叫传递.png}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: 呼叫传递.png Graphic file (type QTm)
+<use  "呼叫传递.png" >
+! Unable to load picture or PDF file '呼叫传递.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.543 ...phics[width=\linewidth]{呼叫传递.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+) (./chapter/chapter2.tex [11]
+Chapter 2.
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+[12
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+
+LaTeX Warning: File `figures/相关带宽退到.png' not found on input line 107.
+
+! Unable to load picture or PDF file 'figures/相关带宽退到.png'.
+<to be read again> 
+                   }
+l.107 ...inewidth]{figures/相关带宽退到.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107 ...inewidth]{figures/相关带宽退到.png}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figures/相关带宽退到.png Graphic file (type QTm)
+<use  "figures/相关带宽退到.png" >
+! Unable to load picture or PDF file 'figures/相关带宽退到.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.107 ...inewidth]{figures/相关带宽退到.png}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
+
+ []
+
+[14]
+
+! LaTeX Error: File `figures/传播模型' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.192 ...idth=0.7\linewidth]{figures/传播模型}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (./chapter/chapter3.tex [15]
+Chapter 3.
+[16
+
+]
+
+! LaTeX Error: File `figures/各合并方式性能比较' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 ...idth]{figures/各合并方式性能比较}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[17]
+
+! LaTeX Error: File `figures/CRC生成' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 ...s[width=0.7\linewidth]{figures/CRC生成}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/CRC生成1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 ...[width=0.7\linewidth]{figures/CRC生成1}
+                                                  ^^I\includegraphics[width=...
+
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/CRC生成2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 ...[width=0.7\linewidth]{figures/CRC生成2}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/CRC生成3' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 ...linewidth,height=7cm]{figures/CRC生成3}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+! LaTeX Error: File `figures/状态转移图' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 ...h=0.7\linewidth]{figures/状态转移图}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `figures/网格图' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149 ...s[width=0.7\linewidth]{figures/网格图}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no  in font [lmroman10-regular]:mapping=tex-text;!
+[19]
+Missing character: There is no  in font [lmroman10-regular]:mapping=tex-text;!
+ [20]
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 其 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 余 in font [lmroman10-regular]:mapping=tex-text;!
+ [21]
+Underfull \hbox (badness 10000) in paragraph at lines 336--338
+
+ []
+
+File: figures/OVSP.png Graphic file (type QTm)
+<use  "figures/OVSP.png" >
+
+! LaTeX Error: File `figures/直接扩频1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.374 ...dth=0.7\linewidth]{figures/直接扩频1}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[22]
+
+! LaTeX Error: File `figures/直接扩频2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379 ...dth=0.7\linewidth]{figures/直接扩频2}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figures/screenshot002.png Graphic file (type QTm)
+<use  "figures/screenshot002.png" > [23]
+
+! LaTeX Error: File `figures/抗窄带能力' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.402 ...h=0.9\linewidth]{figures/抗窄带能力}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--409
+
+ []
+
+File: figures/screenshot001.png Graphic file (type QTm)
+<use  "figures/screenshot001.png" > [24]) (./chapter/chapter4.tex [25]
+Chapter 4.
 File: figures/screenshot003.png Graphic file (type QTm)
 <use  "figures/screenshot003.png" >
 File: figures/screenshot004.png Graphic file (type QTm)
  <use  "figures/screenshot004.png" >
-[2
+[26
 
-] [3]
+] [27]
 File: figures/screenshot005.png Graphic file (type QTm)
  <use  "figures/screenshot005.png" >
 File: figures/screenshot006.png Graphic file (type QTm)
@@ -1270,30 +1955,44 @@ File: figures/screenshot006.png Graphic file (type QTm)
 <use  "figures/screenshot006.png" >
 File: figures/screenshot007.png Graphic file (type QTm)
  <use  "figures/screenshot007.png" >
-[4]
+[28]
 File: figures/screenshot008.png Graphic file (type QTm)
- <use  "figures/screenshot008.png" > [5]
+ <use  "figures/screenshot008.png" > [29]
 File: figures/screenshot009.png Graphic file (type QTm)
 
-<use  "figures/screenshot009.png" > [6]
+<use  "figures/screenshot009.png" > [30]
 File: figures/screenshot010.png Graphic file (type QTm)
  <use  "figures/screenshot010.png" >
-[7] [8])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
+[31] [32]) (./chapter/chapter5.tex [33]
+Chapter 5.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
+ [34
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
  (./document.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 53.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 53.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 53.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 54.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 54.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 24644 strings out of 493005
- 460504 string characters out of 6137956
- 536031 words of memory out of 5000000
- 28454 multiletter control sequences out of 15000+600000
- 4638 words of font info for 40 fonts, out of 8000000 for 9000
+ 24994 strings out of 493005
+ 478193 string characters out of 6137956
+ 545031 words of memory out of 5000000
+ 28720 multiletter control sequences out of 15000+600000
+ 6959 words of font info for 54 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 46i,10n,59p,10438b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,12n,65p,10438b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on document.pdf (9 pages).
+Output written on document.pdf (34 pages).

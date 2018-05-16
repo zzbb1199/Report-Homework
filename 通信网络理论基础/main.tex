@@ -1,4 +1,3 @@
-
 \documentclass[a4paper ]{report}
 % 导言区
 \usepackage{amsmath}
@@ -12,14 +11,6 @@
 \usepackage{hypertoc}
 \usepackage{hyperref}
 \usepackage{array}
-
-\newcommand{\insertImage}[1]{
-\begin{figure}
-	\centering
-	\includegraphics[width=0.7\linewidth]{#1.png}
-	\caption{#1}
-\end{figure}
-}
 \newcounter{mycounter}[subsubsection]
 
 \newcommand{\redbf}[1]{\color{red}{\text{#1}}}
@@ -32,23 +23,17 @@
 % 加深编号
 \setcounter{secnumdepth}{3}
 \newcommand{\insertimage}[1]{
-		\begin{figure}[H]
-			\centering
-			\includegraphics[scale=0.7]{#1.png}
-			\caption{#1}
-		\end{figure}
-	}
-% 标题信息
-\title{移动通信}
-\author{张兴锐}
-\date{2018-3-25}
+	\begin{figure}[H]
+		\centering
+		\includegraphics[scale=0.7]{#1.png}
+		\caption{#1}
+	\end{figure}
+}
 \begin{document}
-%	\maketitle
+	%	\maketitle
 	\tableofcontents
 	% 
-	\input{chapter/chapter1.tex}
-	\input{chapter/chapter2.tex}
+%	\input{chapter/chapter1.tex}
+%	\input{chapter/chapter2.tex}
 	\input{chapter/chapter3.tex}
-	\input{chapter/chapter4.tex}
-	\input{chapter/chapter5.tex}
 \end{document}
