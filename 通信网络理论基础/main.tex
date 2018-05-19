@@ -11,14 +11,24 @@
 \usepackage{hypertoc}
 \usepackage{hyperref}
 \usepackage{array}
-\newcounter{mycounter}[subsubsection]
+\usepackage{setspace}
+\usepackage{xcolor}
 
+\newcounter{mycounter}[subsubsection]
 \newcommand{\redbf}[1]{\color{red}{\text{#1}}}
 \newcommand{\subsubsubsection}[1]{
 	\stepcounter{mycounter}
 	\paragraph{\arabic{mycounter} \hspace{1pt} #1 }\hspace{0.1pt} \\
 }
-\usepackage{xcolor}
+\newcounter{question}[subsection]
+\renewcommand{\thequestion}{\thesection.%
+	\arabic{question}}
+\newcommand{\question}[1]{
+	\stepcounter{question}
+	\textbf{问题\thequestion \hspace{0.5em} #1}
+}
+
+
 
 % 加深编号
 \setcounter{secnumdepth}{3}
@@ -33,7 +43,8 @@
 	%	\maketitle
 	\tableofcontents
 	% 
-%	\input{chapter/chapter1.tex}
+	\input{chapter/chapter1.tex}
+	\input{others/chapter1_homework.tex}
 %	\input{chapter/chapter2.tex}
-	\input{chapter/chapter3.tex}
+%	\input{chapter/chapter3.tex}
 \end{document}
