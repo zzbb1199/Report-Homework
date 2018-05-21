@@ -1,11 +1,106 @@
-\contentsline {chapter}{\numberline {1}引论}{2}{chapter.1}
-\contentsline {section}{\numberline {1.1}系统和网}{2}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}连接方式}{2}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}等级制网络结构}{2}{subsection.1.1.2}
-\contentsline {subsubsection}{\numberline {1.1.2.1}电话网}{2}{subsubsection.1.1.2.1}
-\contentsline {subsubsection}{\numberline {1.1.2.2}因特网}{3}{subsubsection.1.1.2.2}
-\contentsline {section}{\numberline {1.2}通信网的类型}{3}{section.1.2}
-\contentsline {section}{\numberline {1.3}通信网的组成要素}{4}{section.1.3}
-\contentsline {section}{\numberline {1.4}对通信网的要求}{6}{section.1.4}
-\contentsline {section}{\numberline {1.5}报告}{6}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}通信网的组成要素}{6}{subsection.1.5.1}
+\contentsline {chapter}{\numberline {1}引论}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}系统和网}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}连接方式}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}等级制网络结构}{3}{subsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.2.1}电话网}{3}{subsubsection.1.1.2.1}
+\contentsline {subsubsection}{\numberline {1.1.2.2}因特网}{4}{subsubsection.1.1.2.2}
+\contentsline {section}{\numberline {1.2}通信网的类型}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}通信网的组成要素}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}对通信网的要求}{7}{section.1.4}
+\contentsline {section}{\numberline {1.5}报告}{7}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}通信网的组成要素}{7}{subsection.1.5.1}
+\contentsline {chapter}{\numberline {2}网内业务分析}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}排队论基础}{9}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}排队论的概念}{9}{subsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.1}基本概念}{9}{subsubsection.2.1.1.1}
+\contentsline {paragraph}{1 \hspace {1pt} 三个参数 }{9}{section*.2}
+\contentsline {subsubsection}{\numberline {2.1.1.2}一般性质}{9}{subsubsection.2.1.1.2}
+\contentsline {subsubsection}{\numberline {2.1.1.3}到达时间分布}{10}{subsubsection.2.1.1.3}
+\contentsline {subsubsection}{\numberline {2.1.1.4}服务时间分布}{10}{subsubsection.2.1.1.4}
+\contentsline {subsubsection}{\numberline {2.1.1.5}排队系统表示方式}{10}{subsubsection.2.1.1.5}
+\contentsline {subsubsection}{\numberline {2.1.1.6}常见几种分布}{11}{subsubsection.2.1.1.6}
+\contentsline {subsection}{\numberline {2.1.2}系统的工作方式}{11}{subsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.2.1}排队规则}{11}{subsubsection.2.1.2.1}
+\contentsline {subsubsection}{\numberline {2.1.2.2}服务规则}{11}{subsubsection.2.1.2.2}
+\contentsline {subsection}{\numberline {2.1.3}主要性能指标}{12}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}M|M|1问题求解}{12}{subsection.2.1.4}
+\contentsline {paragraph}{1 \hspace {1pt} 差微分方程 }{13}{section*.3}
+\contentsline {paragraph}{2 \hspace {1pt} 稳态方程 }{13}{section*.4}
+\contentsline {subsubsection}{\numberline {2.1.4.1}M|M|1 参数求解}{14}{subsubsection.2.1.4.1}
+\contentsline {subsubsection}{\numberline {2.1.4.2}M|M|1 闲期和忙期}{14}{subsubsection.2.1.4.2}
+\contentsline {subsubsection}{\numberline {2.1.4.3}通信网中的排队论计算}{14}{subsubsection.2.1.4.3}
+\contentsline {subsection}{\numberline {2.1.5}M|M|m(n)}{15}{subsection.2.1.5}
+\contentsline {subsubsection}{\numberline {2.1.5.1}业务量和呼叫量}{16}{subsubsection.2.1.5.1}
+\contentsline {subsection}{\numberline {2.1.6}M|M|m(n)参数求解}{17}{subsection.2.1.6}
+\contentsline {section}{\numberline {2.2}通信网络的业务模型与分析}{17}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}阻塞率和呼损率}{17}{subsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.1.1}时间阻塞率}{17}{subsubsection.2.2.1.1}
+\contentsline {subsubsection}{\numberline {2.2.1.2}呼叫阻塞率}{17}{subsubsection.2.2.1.2}
+\contentsline {subsection}{\numberline {2.2.2}用户数为有限制N的准随机呼叫}{17}{subsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.1}几种指标}{17}{subsubsection.2.2.2.1}
+\contentsline {subsection}{\numberline {2.2.3}业务分析}{17}{subsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.3.1}即时拒绝系统}{18}{subsubsection.2.2.3.1}
+\contentsline {subsubsection}{\numberline {2.2.3.2}主备线即时拒绝系统}{19}{subsubsection.2.2.3.2}
+\contentsline {subsubsection}{\numberline {2.2.3.3}公用备线即时拒绝系统}{20}{subsubsection.2.2.3.3}
+\contentsline {subsubsection}{\numberline {2.2.3.4}优先制排队系统}{21}{subsubsection.2.2.3.4}
+\contentsline {subsubsection}{\numberline {2.2.3.5}两次排队问题}{22}{subsubsection.2.2.3.5}
+\contentsline {section}{\numberline {2.3}提高网效率的一些措施}{22}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}大群化效应}{22}{subsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.1.1}示例1-M|M|m(n)即时拒绝系统}{22}{subsubsection.2.3.1.1}
+\contentsline {subsubsection}{\numberline {2.3.1.2}示例2-M|M|1不拒绝排队系统}{23}{subsubsection.2.3.1.2}
+\contentsline {subsection}{\numberline {2.3.2}延迟效应}{23}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}综合效应}{24}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}迂回效应}{24}{subsection.2.3.4}
+\contentsline {paragraph}{1 \hspace {1pt} 计算通过量 }{24}{section*.5}
+\contentsline {chapter}{\numberline {3}多址接入系统分析}{26}{chapter.3}
+\contentsline {section}{\numberline {3.1}纯ALOHA系统}{27}{section.3.1}
+\contentsline {subsubsection}{\numberline {3.1.0.1}纯ALOHA基础}{27}{subsubsection.3.1.0.1}
+\contentsline {subsubsection}{\numberline {3.1.0.2}系统通过量}{27}{subsubsection.3.1.0.2}
+\contentsline {subsection}{\numberline {3.1.1}下一个2t时刻系统存包量讨论}{28}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}分槽阿罗华系统(时隙ALOHA，S-ALOHA)}{29}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}两个系统的比较}{30}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}碰撞重发的稳定性}{30}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}载波监听多址接入系统}{31}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}传播时延对载波监听的影响}{31}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}非坚持监听方式}{31}{subsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2.1}假设$ \epsilon $为0，则发包必然成功。有：}{31}{subsubsection.3.3.2.1}
+\contentsline {subsubsection}{\numberline {3.3.2.2}假设$ \epsilon $不为0。有：}{32}{subsubsection.3.3.2.2}
+\contentsline {subsection}{\numberline {3.3.3}坚持监听方式}{33}{subsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.1}假设$\epsilon $为0的情况}{33}{subsubsection.3.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.3.2}假设$ \epsilon $不为0时}{34}{subsubsection.3.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3.3}通过量y与$ \epsilon $h和a的关系}{35}{subsubsection.3.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}监听检测方式}{35}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}载波监听总结}{36}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}轮询方式 }{36}{section.3.4}
+\contentsline {section}{\numberline {3.5}各种多址系统的比较}{37}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}通过量}{37}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}等待时间比较}{38}{subsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.2.1}轮询}{38}{subsubsection.3.5.2.1}
+\contentsline {subsubsection}{\numberline {3.5.2.2}竞争型}{39}{subsubsection.3.5.2.2}
+\contentsline {chapter}{\numberline {4}通信网结构}{40}{chapter.4}
+\contentsline {section}{\numberline {4.1}图论基础}{40}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}一笔画问题}{40}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}图的基础知识}{40}{subsection.4.1.2}
+\contentsline {paragraph}{1 \hspace {1pt} 基础概念 }{40}{section*.6}
+\contentsline {paragraph}{2 \hspace {1pt} 图的运算 }{40}{section*.7}
+\contentsline {subsubsection}{\numberline {4.1.2.1}图的联结性}{42}{subsubsection.4.1.2.1}
+\contentsline {subsubsection}{\numberline {4.1.2.2}链、径和还}{43}{subsubsection.4.1.2.2}
+\contentsline {subsubsection}{\numberline {4.1.2.3}连接图}{43}{subsubsection.4.1.2.3}
+\contentsline {subsubsection}{\numberline {4.1.2.4}几种特殊的连接图}{43}{subsubsection.4.1.2.4}
+\contentsline {section}{\numberline {4.2}树}{44}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}基本性质}{44}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}主树}{44}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}树枝与连枝}{44}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}图G的阶及其空度 }{44}{subsection.4.2.4}
+\contentsline {subsubsection}{\numberline {4.2.4.1}阶}{44}{subsubsection.4.2.4.1}
+\contentsline {subsubsection}{\numberline {4.2.4.2}空度}{44}{subsubsection.4.2.4.2}
+\contentsline {subsubsection}{\numberline {4.2.4.3}主林与林补}{44}{subsubsection.4.2.4.3}
+\contentsline {section}{\numberline {4.3}割和环}{44}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}割}{44}{subsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}割端与割端集}{45}{subsubsection.4.3.1.1}
+\contentsline {paragraph}{1 \hspace {1pt} 割端 }{45}{section*.8}
+\contentsline {paragraph}{2 \hspace {1pt} 割端集 }{45}{section*.9}
+\contentsline {subsubsection}{\numberline {4.3.1.2}割边集和割集}{45}{subsubsection.4.3.1.2}
+\contentsline {subsection}{\numberline {4.3.2}联结度、结合度、连通度}{45}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}基本割集}{45}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}基本环和所有环的方法}{46}{subsection.4.3.4}

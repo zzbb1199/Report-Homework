@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.4.22)  19 MAY 2018 20:46
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.4.22)  21 MAY 2018 15:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1110,33 +1110,151 @@ ai-Regular}].
 . - 'italic' (m/it) with NFSS spec.: <->"[FandolKai-Regular.otf]/OT"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
 .................................................
-(./main.aux)
+(./main.aux
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `fig:screenshot001' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+
+LaTeX Warning: Label `fig:screenshot003' multiply defined.
+
+
+LaTeX Warning: Label `key' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 42.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 41.
  (d:/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1144,56 +1262,56 @@ LaTeX Font Info:    ... okay on input line 42.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 42.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 42.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 42.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 42.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 42.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 42.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 42.
-LaTeX Font Info:    Redeclaring math accent \check on input line 42.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 42.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 42.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 42.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 42.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 41.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 41.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 41.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 41.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 41.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 41.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 41.
+LaTeX Font Info:    Redeclaring math accent \check on input line 41.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 41.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 41.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 41.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 41.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 41.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 42.
+(Font)              `operators' in the math version `normal' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 42.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 41.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 42.
+(Font)              `operators' in the math version `bold' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 42.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 42.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 42.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 42.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 42.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 42.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 42.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 42.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 42.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 42.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1230,7 +1348,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box50
-Package hyperref Info: Link coloring OFF on input line 42.
+Package hyperref Info: Link coloring OFF on input line 41.
 (d:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1239,34 +1357,35 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count176
 )
-LaTeX Info: Redefining \ref on input line 42.
-LaTeX Info: Redefining \pageref on input line 42.
-LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
- (./main.toc)
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
- (./chapter/chapter1.tex
+ (./main.toc
 (d:/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ) [1
 
 
-]
+])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+(./chapter/chapter1.tex [2]
 Chapter 1.
 File: figures/screenshot019.png Graphic file (type QTm)
 <use  "figures/screenshot019.png" >
 File: figures/screenshot020.png Graphic file (type QTm)
  <use  "figures/screenshot020.png" >
-[2
+[3
 
-] [3]
+] [4]
 File: figures/screenshot021.png Graphic file (type QTm)
  <use  "figures/screenshot021.png" >
 File: figures/screenshot022.png Graphic file (type QTm)
@@ -1274,25 +1393,215 @@ File: figures/screenshot022.png Graphic file (type QTm)
 <use  "figures/screenshot022.png" >
 File: figures/screenshot023.png Graphic file (type QTm)
  <use  "figures/screenshot023.png" >
-[4]
+[5]
 File: figures/screenshot024.png Graphic file (type QTm)
- <use  "figures/screenshot024.png" > [5]) (./others/chapter1_homework.tex
-[6])
+ <use  "figures/screenshot024.png" > [6]) (./others/chapter1_homework.tex
+[7]) (./chapter/chapter2.tex [8]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Overfull \hbox (2.26299pt too wide) in paragraph at lines 12--14
+[]\TU/FandolSong-Regular(0)/m/n/10 顾 客 到 达 率 $\OML/cmm/m/it/10 ^^U$\TU/lmr/m/n/
+10 , \TU/FandolSong-Regular(0)/m/n/10 单 位 时 间 内 平 均 到 达 排 队 系 统 的 顾 客 数 量，|  相 
+邻 两 顾 客 到 达 的 时 间 间 隔 $\OML/cmm/m/it/10 t$\TU/lmr/m/n/10 , \TU/FandolSong-Regul
+ar(0)/m/n/10 其 $[][] \OT1/cmr/m/n/10 =
+ []
+
+File: figures/prove_1.png Graphic file (type QTm)
+<use  "figures/prove_1.png" >
+File: figures/prove_2.png Graphic file (type QTm)
+ <use  "figures/prove_2.png" > [9
+
+] [10]
+File: figures/prove_3.png Graphic file (type QTm)
+
+<use  "figures/prove_3.png" > [11]
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+File: figures/screenshot025.png Graphic file (type QTm)
+<use  "figures/screenshot025.png" > [12]
+File: figures/screenshot027.png Graphic file (type QTm)
+ <use  "figures/screenshot027.png" >
+File: figures/screenshot028.png Graphic file (type QTm)
+
+<use  "figures/screenshot028.png" >
+File: figures/prove_5.png Graphic file (type QTm)
+ <use  "figures/prove_5.png" > [13]
+File: figures/prove_6.png Graphic file (type QTm)
+
+<use  "figures/prove_6.png" >
+File: figures/screenshot026.png Graphic file (type QTm)
+ <use  "figures/screenshot026.png" > [14]
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+File: figures/screenshot029.png Graphic file (type QTm)
+<use  "figures/screenshot029.png" >
+File: figures/screenshot030.png Graphic file (type QTm)
+ <use  "figures/screenshot030.png" >
+[15] [16]
+File: figures/screenshot031.png Graphic file (type QTm)
+ <use  "figures/screenshot031.png" >
+File: figures/screenshot032.png Graphic file (type QTm)
+
+<use  "figures/screenshot032.png" > [17]
+File: figures/prove_7.png Graphic file (type QTm)
+ <use  "figures/prove_7.png" > [18]
+File: figures/prove_12.png Graphic file (type QTm)
+
+<use  "figures/prove_12.png" >
+File: figures/prove_8.png Graphic file (type QTm)
+ <use  "figures/prove_8.png" > [19]
+File: figures/prove_9.png Graphic file (type QTm)
+
+<use  "figures/prove_9.png" >
+File: figures/prove_10.png Graphic file (type QTm)
+ <use  "figures/prove_10.png" >
+File: figures/prove_11.png Graphic file (type QTm)
+
+<use  "figures/prove_11.png" > [20]
+File: figures/screenshot033.png Graphic file (type QTm)
+ <use  "figures/screenshot033.png" >
+[21]
+File: figures/screenshot034.png Graphic file (type QTm)
+ <use  "figures/screenshot034.png" >
+File: figures/screenshot035.png Graphic file (type QTm)
+ <use  "figures/screenshot035.png" >
+File: figures/screenshot036.png Graphic file (type QTm)
+
+<use  "figures/screenshot036.png" > [22]
+File: figures/screenshot037.png Graphic file (type QTm)
+ <use  "figures/screenshot037.png" >
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 428--430
+
+ []
+
+File: figures/screenshot038.png Graphic file (type QTm)
+<use  "figures/screenshot038.png" >
+Underfull \hbox (badness 10000) in paragraph at lines 430--436
+
+ []
+
+[24]) (./chapter/chapter3.tex [25]
+Chapter 3.
+File: figures/screenshot001.png Graphic file (type QTm)
+<use  "figures/screenshot001.png" >
+File: figures/screenshot002.png Graphic file (type QTm)
+ <use  "figures/screenshot002.png" >
+[26
+
+]
+File: figures/screenshot003.png Graphic file (type QTm)
+ <use  "figures/screenshot003.png" >
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+ [27]
+File: figures/screenshot004.png Graphic file (type QTm)
+
+<use  "figures/screenshot004.png" >
+File: figures/screenshot005.png Graphic file (type QTm)
+ <use  "figures/screenshot005.png" >
+[28]
+File: figures/screenshot006.png Graphic file (type QTm)
+ <use  "figures/screenshot006.png" > [29]
+File: figures/screenshot008.png Graphic file (type QTm)
+
+<use  "figures/screenshot008.png" > [30]
+File: figures/screenshot009.png Graphic file (type QTm)
+ <use  "figures/screenshot009.png" >
+File: figures/screenshot010.png Graphic file (type QTm)
+
+<use  "figures/screenshot010.png" > [31]
+File: figures/screenshot011.png Graphic file (type QTm)
+ <use  "figures/screenshot011.png" >
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 213--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--234
+
+ []
+
+File: figures/screenshot012.png Graphic file (type QTm)
+<use  "figures/screenshot012.png" > [33]
+File: screenshot001.png Graphic file (type QTm)
+ <use  "screenshot001.png" > [34]
+File: figures/screenshot013.png Graphic file (type QTm)
+
+<use  "figures/screenshot013.png" > [35]
+File: figures/screenshot014.png Graphic file (type QTm)
+ <use  "figures/screenshot014.png" >
+[36]
+File: figures/screenshot015.png Graphic file (type QTm)
+ <use  "figures/screenshot015.png" > [37]
+File: figures/screenshot016.png Graphic file (type QTm)
+
+<use  "figures/screenshot016.png" >
+File: figures/screenshot017.png Graphic file (type QTm)
+ <use  "figures/screenshot017.png" >
+File: figures/screenshot018.png Graphic file (type QTm)
+
+<use  "figures/screenshot018.png" > [38]) (./chapter/chapter4.tex [39]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+File: figures/screenshot039.png Graphic file (type QTm)
+<use  "figures/screenshot039.png" > [40
+
+]
+File: figures/screenshot040.png Graphic file (type QTm)
+ <use  "figures/screenshot040.png" >
+File: figures/screenshot041.png Graphic file (type QTm)
+
+<use  "figures/screenshot041.png" > [41]
+File: figures/screenshot042.png Graphic file (type QTm)
+ <use  "figures/screenshot042.png" >
+[42]
+File: screenshot003.png Graphic file (type QTm)
+ <use  "screenshot003.png" > [43] [44]
+File: figures/screenshot045.png Graphic file (type QTm)
+ <use  "figures/screenshot045.png" >
+File: figures/screenshot044.png Graphic file (type QTm)
+
+<use  "figures/screenshot044.png" > [45])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
- [7]
+ [46]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
  (./main.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 50.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 50.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 50.
  ) 
 Here is how much of TeX's memory you used:
- 24719 strings out of 493005
- 464069 string characters out of 6137956
- 541330 words of memory out of 5000000
- 28524 multiletter control sequences out of 15000+600000
- 4622 words of font info for 38 fonts, out of 8000000 for 9000
+ 24946 strings out of 493005
+ 471370 string characters out of 6137956
+ 545122 words of memory out of 5000000
+ 28692 multiletter control sequences out of 15000+600000
+ 4638 words of font info for 40 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 46i,7n,59p,10434b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,14n,59p,10434b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (7 pages).
+Output written on main.pdf (46 pages).
