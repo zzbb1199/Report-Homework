@@ -1,0 +1,331 @@
+\documentclass[a4paper]{article}
+% 导言
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{xeCJK}
+\usepackage{xcolor} 
+\usepackage{fontspec}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{listings}
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+\setlength{\arrayrulewidth}{1mm}
+\setlength{\tabcolsep}{15pt}
+\renewcommand{\arraystretch}{2.0}
+\lstset{ %
+	backgroundcolor=\color{white},   % choose the background color
+	basicstyle=\footnotesize\ttfamily,        % size of fonts used for the code
+	columns=fullflexible,
+	breaklines=true,                 % automatic line breaking only at whitespace
+	captionpos=b,                    % sets the caption-position to bottom
+	tabsize=4,
+	commentstyle=\color{mygreen},    % comment style
+	escapeinside={\%*}{*)},          % if you want to add LaTeX within your code
+	keywordstyle=\color{blue},       % keyword style
+	stringstyle=\color{mymauve}\ttfamily,     % string literal style
+	frame=single,
+	rulesepcolor=\color{red!20!green!20!blue!20},
+	% identifierstyle=\color{red},
+	language=java,
+}
+
+
+% 文档标题
+\title{算法知识总结}
+\author{张兴锐}
+\begin{document}
+	\maketitle
+	\tableofcontents
+	
+	\section{暴力法}
+	暴力穷--\textbf{填空题}常用。
+	\begin{itemize}
+		\item 暴力破解中的实用性原则
+		\item 枚举法,从前往后推。
+		\item 逆向解法，从后往前推。
+	\end{itemize}
+	\subsection{枚举法：年龄问题}
+	美国数学家维纳(N.Wiener)智力早熟，11岁就上了大学。他曾在1935~1936年应邀来中国清华大学讲学。
+	一次，他参加某个重要会议，年轻的脸孔引人注目。于是有人询问他的年龄，他回答说：“我年龄的立方是个4位数。我年龄的4次方是个6位数。这10个数字正好包含了从0到9这10个数字，每个都恰好出现1次。”请你推算一下，他当时到底有多年轻？
+	\lstinputlisting{codes/AgeProblem.java}
+	\subsection{水仙花数}
+	这里不给出具体代码，对于这个问题既可以逆向思维也可以正向推。比如求解三位数的水仙花数字：可以从100-999进行循环取出各个位数进行比较，也可以嵌套撒能循环，i1=0-9,i2=0-9,i3=0-9。这个三个数字生成的数字的是否满足条件。两种情况时间复杂度也是相同的，都要循环1000次。
+	\section{递归解法}
+	递归解法用处广泛，不够总体上分为两种：
+	\begin{enumerate}
+		\item \textbf{最终数量型}，对于这种问题，主要是考虑问题递归的前后联系关系，尽量不要使用到公共结构和全局变量，因为不需要输出最终结果。\textbf{思想常常是当前状态下可有几种选择，有几种就+上几种进行迭代，当然也需要设计好出口条件}
+		\begin{enumerate}
+			\item 求解全排列的个数，或者求解组合个数。
+		\end{enumerate}
+		\item \textbf{最终结果型}，或者在上述情况下无法方便求出的情况下，可以考虑这种方法，常常需要使用到公共数据结构和全局变量，\textbf{回溯法特别常用}。
+		\begin{enumerate}
+			\item 具有边界条件的问题，如裁剪问题
+			\item 输出全排列，利用交换思想或者利用填数思想。
+			\item 输出具有重复数字的组合。
+			\item n皇后问题，等等。
+		\end{enumerate}
+	\end{enumerate}
+	\subsection{类型一：求解最终数量}
+	\subsubsection{观光台售票问题}
+	公园票价为5角。假设每位游客只持有两种币值的货币：5角、1元。
+	再假设持有5角的有m人，持有1元的有n人。
+	由于特殊情况，开始的时候，售票员没有零钱可找。
+	我们想知道这m+n名游客以什么样的顺序购票则可以顺利完成购票过程。
+	显然，m < n的时候，无论如何都不能完成；
+	m>=n的时候，有些情况也不行。比如，第一个购票的乘客就持有1元。
+	请计算出这m+n名游客所有可能顺利完成购票的不同情况的组合数目。
+	注意：只关心5角和1元交替出现的次序的不同排列，持有同样币值的两名游客交换位置并不算做一种新的情况来计数。
+	\lstinputlisting{codes/ChangeProblem.java}
+	\subsubsection{甲虫出站问题}
+	\lstinputlisting{codes/OutStack.java}
+	\subsection{类型二：最终结果型}
+	\subsubsection{求解全排列}
+	\textbf{暴力破解中常用到，所以特别指出}
+	\lstinputlisting{codes/Test.java}
+	\subsubsection{具有重复字母的排列问题}
+	给定一个具有重复数字的字符集合，如“AABBCCD”，从中取4个数字，有多少种解法。
+	\lstinputlisting{codes/TakeNumProblem.java}
+	\subsubsection{裁剪纸问题}
+	\lstinputlisting{codes/Probleam4.java}
+	
+	\section{算法中的数学问题}
+	\subsection{进制的巧妙使用}
+	\textbf{在题目中有明显的进制迭代关系，可以考虑使用本方法}.
+	\subsubsection{捐赠问题}
+	地产大亨Q先生临终的遗愿是：拿出100万元给X社区的居民抽奖，以稍慰藉心中愧疚。
+	麻烦的是，他有个很奇怪的要求：
+	1. 100万元必须被正好分成若干份（不能剩余）。
+	
+	每份必须是7的若干次方元。
+	比如：1元, 7元，49元，343元，...
+	
+	2. 相同金额的份数不能超过5份。
+	
+	3.在满足上述要求的情况下，分成的份数越多越好！
+	
+	请你帮忙计算一下，最多可以分为多少份？\\
+	\textit{对于本题，1,7，49,343是明显的7的次方，可以采用7进制进行求解。}
+	\lstinputlisting{codes/FenQian.java}
+	
+	\subsubsection{天平称重问题-改造的3进制问题}
+	用天平称重时，我们希望用尽可能少的砝码组合称出尽可能多的重量。
+	如果只有5个砝码，重量分别是1，3，9，27，81
+	则它们可以组合称出1到121之间任意整数重量（砝码允许放在左右两个盘中）。
+	本题目要求编程实现：对用户给定的重量，给出砝码组合方案。
+	例如：
+	
+	用户输入：
+	
+	5
+	
+	程序输出：
+	
+	9-3-1
+	
+	用户输入：
+	
+	19
+	
+	程序输出：
+	
+	27-9+1
+	
+	要求程序输出的组合总是大数在前小数在后。
+	
+	可以假设用户的输入的数字符合范围1~121。
+	\lstinputlisting{codes/TianPingProblem.java}
+	
+	\subsection{最小最大公约数}
+	\textbf{最大公约数}
+	欧几里得定理：辗转相处法。$gcd(a,b) = gcd(b,a\%b)直到b=0$
+	\textbf{最小公倍数}
+	$a*b/gcd(a,b)$
+	
+	\subsection{无误差有理数计算}
+	
+	如果求 1/2 + 1/3 + 1/4 + 1/5 + 1/6 + .... + 1/100 = ?
+	要求绝对精确，不能有误差。
+	\lstinputlisting{codes/FuDianJingDu.java}
+	
+	\subsection{筛选法求解素数}
+	
+	第1个素数是2，第2个素数是3，...
+	求第100002（十万零二）个素数
+	
+	其基本思路是数字排成串，从首位向后面扫描，将所有能够约束的给删除。另外\textit{java中linklist的add操作更快，arraylist的get操作更快}
+	\lstinputlisting{codes/SuShuFind.java}
+	
+	\subsection{不定方程的求解}
+	\textbf{方法一：暴力求解} \\
+	通过暴力求解，答题上有几个变量就会有几层循环，但是通常可以通过一定的变形将问题的循环层数减少，例如求解
+	\begin{displaymath}
+		ax+by=c
+	\end{displaymath}
+	可以通过两层循环进行试探，也可以变形为
+	\begin{displaymath}
+		x = (c-by)/a
+	\end{displaymath}
+	循环变为一层，即循环y，当上式子右边能够整除$a$时，得到结果。\\
+	\textbf{方法二：拓展欧几里得}\\
+	拓展欧几里得定理：
+
+	\begin{gather*}
+		ax_1+by_1=gcd(a,b) \\
+		bx_2+(a\%b)y-2=gcd(b,a\%b)		\\
+		\text{结束条件},a\%b = 0
+	\end{gather*}
+	所以可以设计递归进行求解。
+	\lstinputlisting{codes/ExpandOJLiDe.java}
+	
+	\section{博弈论}
+	博弈论，常有两种解法:
+	\begin{enumerate}
+		\item 固定套路，采用暴力解
+		\item 尼姆堆定理
+	\end{enumerate}
+	\subsection{暴力解法}
+	
+	\subsubsection{伪代码如下:}
+	\lstinputlisting{codes/boyilun_weidaima.java}
+	\subsubsection{取球问题}
+	今盒里有n个小球，A、B两人轮流从盒中取球。
+	每个人都可以看到另一个人取了多少个，也可以看到盒中还剩下多少个。
+	两人都很聪明，不会做出错误的判断。
+	
+	每个人从盒子中取出的球的数目必须是：1，3，7或者8个。
+	轮到某一方取球时不能弃权！
+	A先取球，然后双方交替取球，直到取完。
+	
+	被迫拿到最后一个球的一方为负方（输方）
+	
+	编程确定出在双方都不判断失误的情况下，对于特定的初始球数，A是否能赢？
+	\lstinputlisting{codes/TakeBall.java}
+	
+	\subsubsection{尼姆堆}
+	有3堆硬币，分别是3,4,5
+	
+	二人轮流取硬币。
+	
+	每人每次只能从某一堆上取任意数量。
+	
+	不能弃权。
+	
+	取到最后一枚硬币的为赢家。
+	
+	求先取硬币一方有无必胜的招法。
+	
+	\textbf{尼姆定理：将所有堆的数量进行异或操作，如果得到的结果非全零（非平衡状态）则先手赢，得到的是全零则先手输}\\
+	\textbf{所有无偏的二人游戏都可以用尼姆定理进行求解，关键在于如何将问题转化为尼姆堆}
+	\lstinputlisting{codes/NiMuDui.java}
+	
+	\section{随机算法}
+	如果题目要求的是一种可行解，这种方法非常适合，较优解这种方式也可用。推荐使用\textbf{蒙特卡洛和模拟退火}，稍微好实现一些。
+	\subsection{蒙特卡洛算法}
+	题目：给定4个数，看它是否能通过+ - * / 四种运算符得到24点。\\
+	这个题有两个值得学习的地方：
+	\begin{enumerate}
+		\item 逆波兰表达式计算
+		\item 抛异常跳出大循环，原来一直在想exit()函数的问题，可以用这种方式来实现。
+		\item 使用try-catch-finally，语句，即使在try或者catch语句中执行了return，finally语句也会被执行。
+	\end{enumerate}
+	\lstinputlisting{codes/CalCu24.java}
+	\subsection{模拟退火}
+	\subsubsection{伪代码}
+	\lstinputlisting{codes/sa_weidaima.java}
+	\subsubsection{求解$\sin x在(-\pi,\pi)$之间的最小值}
+	\lstinputlisting{codes/SA.java}
+	
+	\section{动态规划}
+	
+	垒骰子
+	
+	赌圣atm晚年迷恋上了垒骰子，就是把骰子一个垒在另一个上边，不能歪歪扭扭，要垒成方柱体。
+	经过长期观察，atm 发现了稳定骰子的奥秘：有些数字的面贴着会互相排斥！
+	我们先来规范一下骰子：1 的对面是 4，2 的对面是 5，3 的对面是 6。
+	假设有 m 组互斥现象，每组中的那两个数字的面紧贴在一起，骰子就不能稳定的垒起来。 atm想计算一下有多少种不同的可能的垒骰子方式。
+	两种垒骰子方式相同，当且仅当这两种方式中对应高度的骰子的对应数字的朝向都相同。
+	由于方案数可能过多，请输出模 $ 10^9 + 7 $ 的结果。
+	
+	不要小看了 atm 的骰子数量哦～
+	
+	「输入格式」
+	第一行两个整数 n m
+	n表示骰子数目
+	接下来 m 行，每行两个整数 a b ，表示 a 和 b 不能紧贴在一起。
+	
+	「输出格式」
+	一行一个数，表示答案模$  10^9 + 7 $ 的结果。
+	
+	「样例输入」
+	2 1
+	1 2
+
+	「样例输出」
+	544
+	
+	本题注意两点：
+	\begin{itemize}
+		\item 数据量大，暴力解肯定超过范围，所以使用DP。
+		\item 大规模余数，将余数因子写成变量，且在用科学表达式时要先进行强制转换并赋值给变量。不要直接使用。
+	\end{itemize}
+	\lstinputlisting{codes/DP1.java}
+	
+	
+	\section{其他技巧}
+	\subsection{树}
+	\subsubsection{二叉树}
+	\begin{enumerate}
+		\item 二叉排序树：通过二分进行建树，中序遍历即可
+		\item 哈弗曼编码树：最小无重复前缀编码方式
+		\item 区间树:
+		\item 线段树：经常对某个区间的某个值进行修改，对某个区间进行查询。
+	\end{enumerate}
+	\subsubsection{哈弗曼编码树}
+	\lstinputlisting{codes/HaffuManTree.java}
+	\subsubsection{线段树}
+	基本操作：\begin{itemize}
+		\item 修改区间值
+		\item 查询区间特征值（视情况而定） 
+	\end{itemize}
+	\textbf{注意事项：树的申请空间为原数据的4倍}
+	\lstinputlisting{codes/SegmentTree.java}
+	\subsubsection{树dp}
+	没有上司的舞会。\textbf{可以学到:}
+	\begin{enumerate}
+		\item 如何建树。
+		\item 树dp。从下往上更新。
+	\end{enumerate}
+	\lstinputlisting{codes/NoShangSi.java}
+	\subsection{正则表达式}
+	\subsubsection{关键词}
+	\begin{table}[H]
+		\begin{tabular}{c|c}
+			\hline
+			符号	&	含义	\\
+			\hline
+			$\backslash b$ &	匹配一个字的边界  \\
+			$\backslash B$ &	非字符边界	\\
+			$\backslash d$ &	数字	\\
+			$\backslash D$ &	非数字	\\
+			$\backslash s$ &	空白字符\\
+			$\backslash S$ &	非空白字符\\
+			$\backslash w$ &	单词字符\\
+			$\backslash W$ &	非单词字符\\
+			\hline
+		\end{tabular}
+	\end{table}
+	\subsubsection{去叠词}
+	
+	\begin{lstlisting}
+	public class Test {
+	public static void main(String[] args) {
+		String test = "22223131413718623872193132121111";
+		System.out.println(test.replaceAll("(.)\\1{2,}", "$1"));
+		System.out.println(test.replaceAll("(.)\\1+", "$1"));
+	}
+	}
+	\end{lstlisting}
+
+\end{document}
