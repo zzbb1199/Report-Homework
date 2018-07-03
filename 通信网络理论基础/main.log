@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.4.22)  21 MAY 2018 15:51
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.4.22)  3 JUL 2018 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1132,102 +1132,6 @@ LaTeX Warning: Label `key' multiply defined.
 
 LaTeX Warning: Label `key' multiply defined.
 
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot001' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot003' multiply defined.
-
-
-LaTeX Warning: Label `key' multiply defined.
-
 )
 \openout1 = `main.aux'.
 
@@ -1365,195 +1269,19 @@ LaTeX Info: Redefining \nameref on input line 41.
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
- (./main.toc
+ (./main.toc)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ (./chapter/chapter4.tex
 (d:/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ) [1
 
 
-])
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
-
-(./chapter/chapter1.tex [2]
-Chapter 1.
-File: figures/screenshot019.png Graphic file (type QTm)
-<use  "figures/screenshot019.png" >
-File: figures/screenshot020.png Graphic file (type QTm)
- <use  "figures/screenshot020.png" >
-[3
-
-] [4]
-File: figures/screenshot021.png Graphic file (type QTm)
- <use  "figures/screenshot021.png" >
-File: figures/screenshot022.png Graphic file (type QTm)
-
-<use  "figures/screenshot022.png" >
-File: figures/screenshot023.png Graphic file (type QTm)
- <use  "figures/screenshot023.png" >
-[5]
-File: figures/screenshot024.png Graphic file (type QTm)
- <use  "figures/screenshot024.png" > [6]) (./others/chapter1_homework.tex
-[7]) (./chapter/chapter2.tex [8]
-Chapter 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-
-Overfull \hbox (2.26299pt too wide) in paragraph at lines 12--14
-[]\TU/FandolSong-Regular(0)/m/n/10 顾 客 到 达 率 $\OML/cmm/m/it/10 ^^U$\TU/lmr/m/n/
-10 , \TU/FandolSong-Regular(0)/m/n/10 单 位 时 间 内 平 均 到 达 排 队 系 统 的 顾 客 数 量，|  相 
-邻 两 顾 客 到 达 的 时 间 间 隔 $\OML/cmm/m/it/10 t$\TU/lmr/m/n/10 , \TU/FandolSong-Regul
-ar(0)/m/n/10 其 $[][] \OT1/cmr/m/n/10 =
- []
-
-File: figures/prove_1.png Graphic file (type QTm)
-<use  "figures/prove_1.png" >
-File: figures/prove_2.png Graphic file (type QTm)
- <use  "figures/prove_2.png" > [9
-
-] [10]
-File: figures/prove_3.png Graphic file (type QTm)
-
-<use  "figures/prove_3.png" > [11]
-Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
-
- []
-
-File: figures/screenshot025.png Graphic file (type QTm)
-<use  "figures/screenshot025.png" > [12]
-File: figures/screenshot027.png Graphic file (type QTm)
- <use  "figures/screenshot027.png" >
-File: figures/screenshot028.png Graphic file (type QTm)
-
-<use  "figures/screenshot028.png" >
-File: figures/prove_5.png Graphic file (type QTm)
- <use  "figures/prove_5.png" > [13]
-File: figures/prove_6.png Graphic file (type QTm)
-
-<use  "figures/prove_6.png" >
-File: figures/screenshot026.png Graphic file (type QTm)
- <use  "figures/screenshot026.png" > [14]
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
-
- []
-
-File: figures/screenshot029.png Graphic file (type QTm)
-<use  "figures/screenshot029.png" >
-File: figures/screenshot030.png Graphic file (type QTm)
- <use  "figures/screenshot030.png" >
-[15] [16]
-File: figures/screenshot031.png Graphic file (type QTm)
- <use  "figures/screenshot031.png" >
-File: figures/screenshot032.png Graphic file (type QTm)
-
-<use  "figures/screenshot032.png" > [17]
-File: figures/prove_7.png Graphic file (type QTm)
- <use  "figures/prove_7.png" > [18]
-File: figures/prove_12.png Graphic file (type QTm)
-
-<use  "figures/prove_12.png" >
-File: figures/prove_8.png Graphic file (type QTm)
- <use  "figures/prove_8.png" > [19]
-File: figures/prove_9.png Graphic file (type QTm)
-
-<use  "figures/prove_9.png" >
-File: figures/prove_10.png Graphic file (type QTm)
- <use  "figures/prove_10.png" >
-File: figures/prove_11.png Graphic file (type QTm)
-
-<use  "figures/prove_11.png" > [20]
-File: figures/screenshot033.png Graphic file (type QTm)
- <use  "figures/screenshot033.png" >
-[21]
-File: figures/screenshot034.png Graphic file (type QTm)
- <use  "figures/screenshot034.png" >
-File: figures/screenshot035.png Graphic file (type QTm)
- <use  "figures/screenshot035.png" >
-File: figures/screenshot036.png Graphic file (type QTm)
-
-<use  "figures/screenshot036.png" > [22]
-File: figures/screenshot037.png Graphic file (type QTm)
- <use  "figures/screenshot037.png" >
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 428--430
-
- []
-
-File: figures/screenshot038.png Graphic file (type QTm)
-<use  "figures/screenshot038.png" >
-Underfull \hbox (badness 10000) in paragraph at lines 430--436
-
- []
-
-[24]) (./chapter/chapter3.tex [25]
-Chapter 3.
-File: figures/screenshot001.png Graphic file (type QTm)
-<use  "figures/screenshot001.png" >
-File: figures/screenshot002.png Graphic file (type QTm)
- <use  "figures/screenshot002.png" >
-[26
-
 ]
-File: figures/screenshot003.png Graphic file (type QTm)
- <use  "figures/screenshot003.png" >
-Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
- [27]
-File: figures/screenshot004.png Graphic file (type QTm)
-
-<use  "figures/screenshot004.png" >
-File: figures/screenshot005.png Graphic file (type QTm)
- <use  "figures/screenshot005.png" >
-[28]
-File: figures/screenshot006.png Graphic file (type QTm)
- <use  "figures/screenshot006.png" > [29]
-File: figures/screenshot008.png Graphic file (type QTm)
-
-<use  "figures/screenshot008.png" > [30]
-File: figures/screenshot009.png Graphic file (type QTm)
- <use  "figures/screenshot009.png" >
-File: figures/screenshot010.png Graphic file (type QTm)
-
-<use  "figures/screenshot010.png" > [31]
-File: figures/screenshot011.png Graphic file (type QTm)
- <use  "figures/screenshot011.png" >
-[32]
-Underfull \hbox (badness 10000) in paragraph at lines 213--218
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--234
-
- []
-
-File: figures/screenshot012.png Graphic file (type QTm)
-<use  "figures/screenshot012.png" > [33]
-File: screenshot001.png Graphic file (type QTm)
- <use  "screenshot001.png" > [34]
-File: figures/screenshot013.png Graphic file (type QTm)
-
-<use  "figures/screenshot013.png" > [35]
-File: figures/screenshot014.png Graphic file (type QTm)
- <use  "figures/screenshot014.png" >
-[36]
-File: figures/screenshot015.png Graphic file (type QTm)
- <use  "figures/screenshot015.png" > [37]
-File: figures/screenshot016.png Graphic file (type QTm)
-
-<use  "figures/screenshot016.png" >
-File: figures/screenshot017.png Graphic file (type QTm)
- <use  "figures/screenshot017.png" >
-File: figures/screenshot018.png Graphic file (type QTm)
-
-<use  "figures/screenshot018.png" > [38]) (./chapter/chapter4.tex [39]
-Chapter 4.
+Chapter 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
@@ -1565,26 +1293,136 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
  []
 
 File: figures/screenshot039.png Graphic file (type QTm)
-<use  "figures/screenshot039.png" > [40
+<use  "figures/screenshot039.png" > [2
 
 ]
 File: figures/screenshot040.png Graphic file (type QTm)
  <use  "figures/screenshot040.png" >
 File: figures/screenshot041.png Graphic file (type QTm)
 
-<use  "figures/screenshot041.png" > [41]
+<use  "figures/screenshot041.png" > [3]
 File: figures/screenshot042.png Graphic file (type QTm)
  <use  "figures/screenshot042.png" >
-[42]
 File: screenshot003.png Graphic file (type QTm)
- <use  "screenshot003.png" > [43] [44]
+
+<use  "screenshot003.png" > [4]
+File: figures/screenshot046.png Graphic file (type QTm)
+ <use  "figures/screenshot046.png" >
+File: figures/screenshot047.png Graphic file (type QTm)
+
+<use  "figures/screenshot047.png" > [5]
+File: figures/screenshot048.png Graphic file (type QTm)
+ <use  "figures/screenshot048.png" >
+File: figures/screenshot049.png Graphic file (type QTm)
+
+<use  "figures/screenshot049.png" >
+File: figures/screenshot050.png Graphic file (type QTm)
+ <use  "figures/screenshot050.png" >
+[6]
+File: figures/screenshot051.png Graphic file (type QTm)
+ <use  "figures/screenshot051.png" >
+File: figures/screenshot052.png Graphic file (type QTm)
+ <use  "figures/screenshot052.png" >
+[7]
+File: figures/screenshot053.png Graphic file (type QTm)
+ <use  "figures/screenshot053.png" > [8]
+File: figures/screenshot054.png Graphic file (type QTm)
+
+<use  "figures/screenshot054.png" > [9]
 File: figures/screenshot045.png Graphic file (type QTm)
  <use  "figures/screenshot045.png" >
-File: figures/screenshot044.png Graphic file (type QTm)
+File: figures/screenshot056.png Graphic file (type QTm)
 
-<use  "figures/screenshot044.png" > [45])
+<use  "figures/screenshot056.png" > [10]
+File: figures/screenshot044.png Graphic file (type QTm)
+ <use  "figures/screenshot044.png" >
+[11]
+Missing character: There is no  in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no  in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no  in font [lmroman10-regular]:mapping=tex-text;!
+File: figures/screenshot057.png Graphic file (type QTm)
+ <use  "figures/screenshot057.png" >
+File: figures/screenshot058.png Graphic file (type QTm)
+ <use  "figures/screenshot058.png" >
+[12]
+File: figures/screenshot060.png Graphic file (type QTm)
+ <use  "figures/screenshot060.png" >
+File: figures/screenshot061.png Graphic file (type QTm)
+ <use  "figures/screenshot061.png" >
+[13]
+File: figures/screenshot062.png Graphic file (type QTm)
+ <use  "figures/screenshot062.png" >
+File: figures/screenshot064.png Graphic file (type QTm)
+ <use  "figures/screenshot064.png" >
+[14]
+File: figures/screenshot065.png Graphic file (type QTm)
+ <use  "figures/screenshot065.png" >
+File: figures/screenshot066.png Graphic file (type QTm)
+ <use  "figures/screenshot066.png" >
+[15]
+File: figures/screenshot067.png Graphic file (type QTm)
+ <use  "figures/screenshot067.png" >
+File: figures/screenshot068.png Graphic file (type QTm)
+ <use  "figures/screenshot068.png" >
+Underfull \hbox (badness 10000) in paragraph at lines 361--367
+
+ []
+
+[16]
+File: figures/screenshot069.png Graphic file (type QTm)
+ <use  "figures/screenshot069.png" >
+Underfull \hbox (badness 10000) in paragraph at lines 368--374
+
+ []
+
+File: figures/screenshot070.png Graphic file (type QTm)
+<use  "figures/screenshot070.png" >
+Underfull \hbox (badness 10000) in paragraph at lines 375--381
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+
+ []
+
+File: figures/screenshot071.png Graphic file (type QTm)
+<use  "figures/screenshot071.png" >
+File: figures/screenshot072.png Graphic file (type QTm)
+ <use  "figures/screenshot072.png" >
+[18]
+File: figures/screenshot073.png Graphic file (type QTm)
+ <use  "figures/screenshot073.png" > [19]
+File: figures/screenshot074.png Graphic file (type QTm)
+
+<use  "figures/screenshot074.png" > [20]
+File: figures/screenshot075.png Graphic file (type QTm)
+ <use  "figures/screenshot075.png" >
+File: figures/screenshot076.png Graphic file (type QTm)
+
+<use  "figures/screenshot076.png" > [21]
+File: figures/screenshot077.png Graphic file (type QTm)
+ <use  "figures/screenshot077.png" >
+[22]
+File: figures/screenshot078.png Graphic file (type QTm)
+ <use  "figures/screenshot078.png" >
+File: figures/screenshot079.png Graphic file (type QTm)
+ <use  "figures/screenshot079.png" >
+File: figures/screenshot080.png Graphic file (type QTm)
+
+<use  "figures/screenshot080.png" > [23]
+File: figures/screenshot081.png Graphic file (type QTm)
+ <use  "figures/screenshot081.png" >
+[24]
+File: figures/screenshot082.png Graphic file (type QTm)
+ <use  "figures/screenshot082.png" >)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
- [46]
+ [25]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
  (./main.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 50.
@@ -1596,12 +1434,12 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 50.
  ) 
 Here is how much of TeX's memory you used:
- 24946 strings out of 493005
- 471370 string characters out of 6137956
- 545122 words of memory out of 5000000
- 28692 multiletter control sequences out of 15000+600000
- 4638 words of font info for 40 fonts, out of 8000000 for 9000
+ 24827 strings out of 493005
+ 466213 string characters out of 6137956
+ 537311 words of memory out of 5000000
+ 28601 multiletter control sequences out of 15000+600000
+ 4622 words of font info for 38 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 46i,14n,59p,10434b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,7n,59p,10434b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (46 pages).
+Output written on main.pdf (25 pages).
