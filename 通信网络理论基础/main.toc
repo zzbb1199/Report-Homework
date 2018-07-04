@@ -1,60 +1,11 @@
-\contentsline {chapter}{\numberline {1}通信网结构}{2}{chapter.1}
-\contentsline {section}{\numberline {1.1}图论基础}{2}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}一笔画问题}{2}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}图的基础知识}{2}{subsection.1.1.2}
-\contentsline {paragraph}{\numberline {1.1.2.0.1}1 \hspace {1pt} 基础概念 }{2}{paragraph.1.1.2.0.1}
-\contentsline {paragraph}{\numberline {1.1.2.0.2}2 \hspace {1pt} 图的运算 }{2}{paragraph.1.1.2.0.2}
-\contentsline {subsubsection}{\numberline {1.1.2.1}图的联结性}{4}{subsubsection.1.1.2.1}
-\contentsline {subsubsection}{\numberline {1.1.2.2}链、径和还}{4}{subsubsection.1.1.2.2}
-\contentsline {subsubsection}{\numberline {1.1.2.3}连接图}{4}{subsubsection.1.1.2.3}
-\contentsline {subsubsection}{\numberline {1.1.2.4}几种特殊的连接图}{5}{subsubsection.1.1.2.4}
-\contentsline {section}{\numberline {1.2}树}{8}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}基本性质}{8}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}树的一些概念}{8}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}主树}{9}{subsection.1.2.3}
-\contentsline {subsection}{\numberline {1.2.4}树枝与连枝}{9}{subsection.1.2.4}
-\contentsline {subsection}{\numberline {1.2.5}图G的阶及其空度 }{9}{subsection.1.2.5}
-\contentsline {subsubsection}{\numberline {1.2.5.1}阶}{9}{subsubsection.1.2.5.1}
-\contentsline {subsubsection}{\numberline {1.2.5.2}空度}{9}{subsubsection.1.2.5.2}
-\contentsline {subsubsection}{\numberline {1.2.5.3}主林与林补}{9}{subsubsection.1.2.5.3}
-\contentsline {section}{\numberline {1.3}割和环}{9}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}割}{9}{subsection.1.3.1}
-\contentsline {subsubsection}{\numberline {1.3.1.1}割端与割端集}{9}{subsubsection.1.3.1.1}
-\contentsline {paragraph}{\numberline {1.3.1.1.1}1 \hspace {1pt} 割端 }{9}{paragraph.1.3.1.1.1}
-\contentsline {paragraph}{\numberline {1.3.1.1.2}2 \hspace {1pt} 割端集 }{9}{paragraph.1.3.1.1.2}
-\contentsline {subsubsection}{\numberline {1.3.1.2}割边集和割集}{9}{subsubsection.1.3.1.2}
-\contentsline {subsection}{\numberline {1.3.2}联结度、结合度、连通度}{10}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}基本割集}{10}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {1.3.4}基本环和所有环的方法}{12}{subsection.1.3.4}
-\contentsline {section}{\numberline {1.4}平面性和对偶性}{12}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}平面型}{12}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}对偶性}{12}{subsection.1.4.2}
-\contentsline {section}{\numberline {1.5}图阵}{13}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}关联阵}{13}{subsection.1.5.1}
-\contentsline {subsubsection}{\numberline {1.5.1.1}全关联阵}{13}{subsubsection.1.5.1.1}
-\contentsline {subsubsection}{\numberline {1.5.1.2}关联阵}{14}{subsubsection.1.5.1.2}
-\contentsline {subsection}{\numberline {1.5.2}割阵}{15}{subsection.1.5.2}
-\contentsline {subsection}{\numberline {1.5.3}邻接阵}{16}{subsection.1.5.3}
-\contentsline {section}{\numberline {1.6}最短径问题}{16}{section.1.6}
-\contentsline {subsection}{\numberline {1.6.1}最短主树}{16}{subsection.1.6.1}
-\contentsline {subsubsection}{\numberline {1.6.1.1}无限制条件}{16}{subsubsection.1.6.1.1}
-\contentsline {paragraph}{\numberline {1.6.1.1.1}1 \hspace {1pt} P算法 }{16}{paragraph.1.6.1.1.1}
-\contentsline {paragraph}{\numberline {1.6.1.1.2}2 \hspace {1pt} K算法 }{17}{paragraph.1.6.1.1.2}
-\contentsline {paragraph}{\numberline {1.6.1.1.3}3 \hspace {1pt} 破圈法 }{17}{paragraph.1.6.1.1.3}
-\contentsline {subsubsection}{\numberline {1.6.1.2}有限制条件下最短树的求取 }{18}{subsubsection.1.6.1.2}
-\contentsline {paragraph}{\numberline {1.6.1.2.1}1 \hspace {1pt} 穷举法(可用置换法) }{18}{paragraph.1.6.1.2.1}
-\contentsline {paragraph}{\numberline {1.6.1.2.2}2 \hspace {1pt} E-W算法 }{18}{paragraph.1.6.1.2.2}
-\contentsline {subsection}{\numberline {1.6.2}端间的最短径}{18}{subsection.1.6.2}
-\contentsline {subsubsection}{\numberline {1.6.2.1}D算法}{18}{subsubsection.1.6.2.1}
-\contentsline {subsubsection}{\numberline {1.6.2.2}F算法}{18}{subsubsection.1.6.2.2}
-\contentsline {subsection}{\numberline {1.6.3}次短径和可用径 }{19}{subsection.1.6.3}
-\contentsline {subsubsection}{\numberline {1.6.3.1}找与最短径边分离的次短径}{19}{subsubsection.1.6.3.1}
-\contentsline {subsubsection}{\numberline {1.6.3.2}找与最短径端分离的最短径。 }{19}{subsubsection.1.6.3.2}
-\contentsline {subsection}{\numberline {1.6.4}限制条件下的可用径}{19}{subsection.1.6.4}
-\contentsline {section}{\numberline {1.7}网的中心和中点}{20}{section.1.7}
-\contentsline {subsection}{\numberline {1.7.1}网中心}{20}{subsection.1.7.1}
-\contentsline {subsection}{\numberline {1.7.2}网中点}{21}{subsection.1.7.2}
-\contentsline {section}{\numberline {1.8}站址问题}{22}{section.1.8}
-\contentsline {subsection}{\numberline {1.8.1}单中点问题 }{22}{subsection.1.8.1}
-\contentsline {subsection}{\numberline {1.8.2}k中点问题}{24}{subsection.1.8.2}
-\contentsline {subsection}{\numberline {1.8.3}设站问题}{25}{subsection.1.8.3}
+\contentsline {chapter}{\numberline {1}通信网中的流量优化}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}一般性问题}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}可行流及其优化问题 }{2}{subsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1.1}可行流}{2}{subsubsection.1.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1.2}问题}{2}{subsubsection.1.1.1.2}
+\contentsline {section}{\numberline {1.2}最大流问题}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}M算法}{2}{subsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.1.1}M算法的几点推广 }{3}{subsubsection.1.2.1.1}
+\contentsline {subsection}{\numberline {1.2.2}最佳流问题}{3}{subsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.1}N算法}{3}{subsubsection.1.2.2.1}
+\contentsline {section}{\numberline {1.3}线性规划}{4}{section.1.3}
