@@ -1,0 +1,39 @@
+\documentclass{report}
+% 导言区
+\usepackage{amsmath}
+\usepackage{xeCJK}
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+\usepackage[scale=0.8]{geometry}
+\usepackage{float}
+\usepackage{amsmath}
+%\usepackage{hypertoc}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage{setspace}
+
+% 自定义命令
+\newcommand{\clearquestion}{
+	\setcounter{question}{0}
+}
+\newcounter{question}[section]
+\newcommand{\question}[1]{
+	\stepcounter{question}
+	\paragraph{\thequestion \hspace{0.5em} #1 }
+}
+% 自定义无缩进
+%\renewcommand{\noindent}{\setlength\parindent{0em}}
+% 设置行距
+\renewcommand{\baselinestretch}{1.0}
+% 加深编号
+\setcounter{secnumdepth}{3}
+
+\begin{document}
+	\input{chapters/chater1.tex}
+	\input{chapters/chater2.tex}
+	\input{chapters/chater3.tex}
+	\input{chapters/chater4.tex}
+	\input{chapters/chater5.tex}
+\end{document}
