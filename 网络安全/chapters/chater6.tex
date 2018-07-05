@@ -1,0 +1,65 @@
+\chapter{入侵检测}
+\question{什么是入侵检测}
+指“通过对行为、安全日志、审计数据或其他网络上可以获取的信息进行分析，对系统的闯入或闯出的企图进行检测”的安全技术。
+
+\question{入侵检测系统分类}
+\begin{enumerate}
+	\item 按入侵检测的数据来源分类
+	\begin{enumerate}
+		\item HIDS,以主机数据作为分析对象，通过分析主机内部活动痕迹，如系统日志、系统调用、系统关键文件完整性等，判断主机上是否有入侵行为发生。
+		\item NIDS,以一种或者多种网络数据作为分析对象，用一定的分析方法，判断在主机或网络中是否有入侵行为发生。
+		\item HIDS，混合IDS。
+	\end{enumerate}
+	\item 按使用的入侵检测分析方法分类
+	\begin{enumerate}
+		\item 误用检测，用恰当的方法分析、提取并表示隐藏在具体入侵行为中的内在代表性特征，形成相应的\textbf{入侵模式库}，并以此为依据实现对目标流量的有效检测和行为发现。\textbf{缺点：}不能检测模式库中没有现存模式的未知入侵。需要及时更新入侵模式库。
+		\item 异常检测，对正常状态下的系统行为建立模型，然后将所有观测到的和目标对象相关的活动与建立的系统正常行为模型进行比较，将与系统正常行为模型不相符的活动判定为可以或入侵行为。\textbf{缺点：}误警率较高。尚未商用
+		\item 混合检测，综合上述两种方法，以模式为主，异常为辅。 
+	\end{enumerate}
+	\item 按系统体系结构分类
+	\begin{enumerate}
+		\item 集中式IDS，由一个入侵检测服务器和分布于不同主机的多个审计程序组成，主要适用于小型网络中的入侵程序
+		\item 
+		分布式IDS，针对比较复杂的网络，各组件分布在网络中不同的计算机或设备上，其分布性主要体现在\textbf{数据收集}和\textbf{数据分析}上。
+	\end{enumerate}
+	\item 在线IDS（实时性高，占用资源）；离线IDS（实时性不高，节约资源）
+	\item 主动响应（发现并阻断攻击）；被动响应(警告和记录)
+	\item 连续IDS，周期IDS。
+\end{enumerate}
+
+\question{入侵检测系统体系结构}
+\begin{enumerate}
+	\item 集中式体系结构
+	\begin{itemize}
+		\item 优点：全面掌握采集到的数据，从而对入侵检测分析更加精确
+		\item 缺点：可扩展性差；改变配置和加入新功能困难；存在单点失效的问题
+	\end{itemize}
+	\item 分布式体系结构
+	\begin{itemize}
+		\item 优点：较好的完成数据的采集和检测内外部的入侵行为。
+		\item 缺点：现有的网络普遍采用的是层次化的结构，\textbf{纯分布式的入侵检测要求所有的代理处于同一层次上}，如何代理所处的层次过低，则无法检测针对网络上层的入侵行为，反之则不无法检测下层。
+	\end{itemize}
+	\item 分层式体系结构，树状结构
+	\begin{itemize}
+		\item 底层，收集所有的基本信息，然后对信息进行简单的处理。\textbf{处理速度快，数据量大}
+		\item 中间层，连接上下层，起到代理的作用。减轻了中央控制台的负载压力，体改了系统的可伸缩性
+		\item 中央控制台，负责在整体上对各级带进行协调和管理
+	\end{itemize}
+\end{enumerate}
+
+\question{入侵检测技术}
+\begin{enumerate}
+	\item 基于行为的检测方法
+	\begin{enumerate}
+		\item 概率统计方法
+		\item 人工神经网络
+		\item 人工免疫系统
+	\end{enumerate}
+	\item 基于知识的入侵检测技术
+	\begin{enumerate}
+		\item 专家系统
+		\item 模型退你
+		\item 状态转换分析
+	\end{enumerate}
+\end{enumerate}
+

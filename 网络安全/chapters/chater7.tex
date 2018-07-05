@@ -1,0 +1,24 @@
+\chapter{虚拟专用网}
+\question{什么是VPN}
+VPN是一种依靠互联网服务提供商和其他网络服务提供商\textbf{在公共网络中建立专用的数据通信网络的技术}
+\begin{itemize}
+	\item 它是虚拟的网，即没有固定的物理连接，网络只有用户需要时才建立
+	\item 他是利用公共网络设施构成的专用
+\end{itemize}
+
+\question{VPN的关键技术}，通过各种技术满足通信安全，实现\textbf{身份认证、数据保密性、数据完整性}
+\begin{enumerate}
+	\item 隧道技术，将一种协议封装在另一种协议中传输，从而实现协议对公共网络的透明性
+	\item 加密技术，隐藏传输信息的真实内容
+	\item 密钥管理技术，确保在公网数据网上安全地传递密钥而不被窃取。
+	\begin{enumerate}
+		\item 手工配置，小网，更新不快
+		\item 密钥交换歇息动态分发，适合复杂网，快速更新。需要PKI。
+-	\end{enumerate}
+	\item 用户认证技术
+	\begin{enumerate}
+		\item 仲裁认证
+		\item 共享认证
+	\end{enumerate}
+\end{enumerate}
+
