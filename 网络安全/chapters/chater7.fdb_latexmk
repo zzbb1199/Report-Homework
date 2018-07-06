@@ -1,0 +1,12 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "chater7.xdv" "chater7.pdf" "chater7" 0
+  "chater7.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "chater7.pdf"
+["xelatex"] 1530878226 "chater7.tex" "chater7.xdv" "chater7" 1530878227
+  "chater7.aux" 1530878226 9 a94a2480d3289e625eea47cd1b285758 ""
+  "chater7.tex" 1530878225 1864 5943a938946ccbf37a671f323705444a ""
+  "d:/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1524395321 3678290 ad941aa2bb330c81b59fa35601be76a7 ""
+  (generated)
+  "chater7.log"
+  "chater7.xdv"

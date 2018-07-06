@@ -1,0 +1,3681 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.4.22)  6 JUL 2018 10:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./chapter6.tex
+(./chapter6.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+! Undefined control sequence.
+l.1 \chapter
+            {通信网的可靠性}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{通
+                信网的可靠性}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 通 in font nullfont!
+Missing character: There is no 信 in font nullfont!
+Missing character: There is no 网 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+! Undefined control sequence.
+l.2 \section
+            {可靠性理论概要
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 理 in font nullfont!
+Missing character: There is no 论 in font nullfont!
+Missing character: There is no 概 in font nullfont!
+Missing character: There is no 要 in font nullfont!
+! Undefined control sequence.
+l.4 \subsection
+               {不可修复系统的可靠度
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 修 in font nullfont!
+Missing character: There is no 复 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+Missing character: There is no 所 in font nullfont!
+Missing character: There is no 谓 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 修 in font nullfont!
+Missing character: There is no 复 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 该 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 旦 in font nullfont!
+Missing character: There is no 启 in font nullfont!
+Missing character: There is no 用 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 直 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 损 in font nullfont!
+Missing character: There is no 坏 in font nullfont!
+Missing character: There is no 或 in font nullfont!
+Missing character: There is no 失 in font nullfont!
+Missing character: There is no 效 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 止 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 旦 in font nullfont!
+Missing character: There is no 失 in font nullfont!
+Missing character: There is no 效 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 就 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 会 in font nullfont!
+Missing character: There is no 再 in font nullfont!
+Missing character: There is no 回 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 运 in font nullfont!
+Missing character: There is no 行 in font nullfont!
+Missing character: There is no 状 in font nullfont!
+Missing character: There is no 态 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 这 in font nullfont!
+Missing character: There is no 种 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 只 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 两 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 状 in font nullfont!
+Missing character: There is no 态 in font nullfont!
+Missing character: There is no ： in font nullfont!
+Missing character: There is no 一 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 为 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 运 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 行 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 另 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 一 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 为 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 失 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 效 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ； in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 而 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 且 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 只 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 有 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 运 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 行 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 状 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 态 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 向 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 失 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 效 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 状 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 态 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 转 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 移 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 一 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 种 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 可 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 能 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-bold]:mapping=tex-text;!
+! Undefined control sequence.
+<recently read> \subsubsection 
+                               
+l.8 \subsubsection
+                  {理论分析}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 理 in font nullfont!
+Missing character: There is no 论 in font nullfont!
+Missing character: There is no 分 in font nullfont!
+Missing character: There is no 析 in font nullfont!
+Missing character: There is no 定 in font nullfont!
+Missing character: There is no 义 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+Missing character: There is no ： in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--10
+[]
+ []
+
+
+Overfull \hbox (86.8pt too wide) in paragraph at lines 1--10
+\TU/lmr/bx/n/10 一为运行，另一为失效；而且只有运行状态向失效状态转移一种可能。 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+! Undefined control sequence.
+l.11 R(t) = P[\text
+                   {工作时间}>t] = P[t\text{t时刻仍正常工作}],R[0...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.11 R(t) = P[\text{工作时间}>t] = P[t\text
+                                               {t时刻仍正常工作}],R[0...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 工 in font cmr10!
+Missing character: There is no 作 in font cmr10!
+Missing character: There is no 时 in font cmr10!
+Missing character: There is no 间 in font cmr10!
+Missing character: There is no 时 in font cmr10!
+Missing character: There is no 刻 in font cmr10!
+Missing character: There is no 仍 in font cmr10!
+Missing character: There is no 正 in font cmr10!
+Missing character: There is no 常 in font cmr10!
+Missing character: There is no 工 in font cmr10!
+Missing character: There is no 作 in font cmr10!
+
+Overfull \hbox (137.62468pt too wide) detected at line 12
+[]\OML/cmm/m/it/10 R\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = \OML
+/cmm/m/it/10 P\OT1/cmr/m/n/10 [[] \OML/cmm/m/it/10 > t\OT1/cmr/m/n/10 ] = \OML/
+cmm/m/it/10 P\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 t[]\OT1/cmr/m/n/10 ]\OML/cmm/m/i
+t/10 ; R\OT1/cmr/m/n/10 [0] = 1
+ []
+
+Missing character: There is no 定 in font nullfont!
+Missing character: There is no 义 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.15 F(t) = 1 - R(t) =P[\text
+                             {工作时间}>t] =  P[\text{t时刻不能正�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.15 ... R(t) =P[\text{工作时间}>t] =  P[\text
+                                                  {t时刻不能正常工作}]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 工 in font cmr10!
+Missing character: There is no 作 in font cmr10!
+Missing character: There is no 时 in font cmr10!
+Missing character: There is no 间 in font cmr10!
+Missing character: There is no 时 in font cmr10!
+Missing character: There is no 刻 in font cmr10!
+Missing character: There is no 不 in font cmr10!
+Missing character: There is no 能 in font cmr10!
+Missing character: There is no 正 in font cmr10!
+Missing character: There is no 常 in font cmr10!
+Missing character: There is no 工 in font cmr10!
+Missing character: There is no 作 in font cmr10!
+
+Overfull \hbox (138.32959pt too wide) detected at line 16
+[]\OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = 1 \O
+MS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 R\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cm
+r/m/n/10 ) = \OML/cmm/m/it/10 P\OT1/cmr/m/n/10 [[] \OML/cmm/m/it/10 > t\OT1/cmr
+/m/n/10 ] = \OML/cmm/m/it/10 P\OT1/cmr/m/n/10 [[]]
+ []
+
+Missing character: There is no 故 in font nullfont!
+Missing character: There is no 障 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 失 in font nullfont!
+Missing character: There is no 效 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no （ in font nullfont!
+Missing character: There is no 平 in font nullfont!
+Missing character: There is no 均 in font nullfont!
+Missing character: There is no ） in font nullfont!
+
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 16--18
+$\OML/cmm/m/it/10 ^^K$ 
+ []
+
+! Undefined control sequence.
+l.19 dt\text
+            {失效的概率} = \alpha dt
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 失 in font cmr10!
+Missing character: There is no 效 in font cmr10!
+Missing character: There is no 的 in font cmr10!
+Missing character: There is no 概 in font cmr10!
+Missing character: There is no 率 in font cmr10!
+
+Overfull \hbox (37.39922pt too wide) detected at line 20
+[]\OML/cmm/m/it/10 dt[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 ^^Kdt
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \begin{figure}
+                   [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.23 ^^I\includegraphics
+                        [width=0.7\linewidth]{figures/screenshot085}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.23 ^^I\includegraphics[width=0.7\linewidth]
+                                             {figures/screenshot085}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.23 ^^I\includegraphics[width=0.7\linewidth]
+                                             {figures/screenshot085}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ^^I\caption
+                {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 }
+      ，解一个微分方程即可。
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 时 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 刻 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 正 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 常 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 经 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 还 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 没 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 有 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 失 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 效 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 有 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ： in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no · in font cmr10!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 解 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 微 in font nullfont!
+Missing character: There is no 分 in font nullfont!
+Missing character: There is no 方 in font nullfont!
+Missing character: There is no 程 in font nullfont!
+Missing character: There is no 即 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 求 in font nullfont!
+Missing character: There is no 得 in font nullfont!
+Missing character: There is no ： in font nullfont!
+
+Overfull \hbox (95.76245pt too wide) in paragraph at lines 29--31
+[]\TU/lmr/bx/n/10 t时刻正常，经$\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 t$\TU/lmr/bx/n/10
+ 还没有失效有：$\OML/cmm/m/it/10 R\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t \OT1/cmr/m/n/10 
++
+ []
+
+
+Overfull \hbox (26.38889pt too wide) in paragraph at lines 29--31
+\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) =
+ []
+
+
+Overfull \hbox (35.72578pt too wide) in paragraph at lines 29--31
+\OML/cmm/m/it/10 R\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )(1 \OMS/c
+msy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (21.11926pt too wide) in paragraph at lines 29--31
+\OML/cmm/m/it/10 a\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (51.15706pt too wide) detected at line 33
+[]\OML/cmm/m/it/10 R\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = \OML
+/cmm/m/it/10 e[]
+ []
+
+Missing character: There is no 所 in font nullfont!
+Missing character: There is no 以 in font nullfont!
+
+Overfull \hbox (109.25429pt too wide) detected at line 37
+[]\OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = 1 \O
+MS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 R\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cm
+r/m/n/10 ) = 1 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 e[]
+ []
+
+Missing character: There is no 因 in font nullfont!
+Missing character: There is no 此 in font nullfont!
+Missing character: There is no 寿 in font nullfont!
+Missing character: There is no 命 in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 概 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no 密 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+Missing character: There is no 函 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no ： in font nullfont!
+
+Overfull \hbox (17.36118pt too wide) in paragraph at lines 37--39
+$\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )$ 
+ []
+
+
+Overfull \hbox (135.30894pt too wide) detected at line 41
+[]\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = \OML
+/cmm/m/it/10 F[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = \OMS/cms
+y/m/n/10 ^^@\OML/cmm/m/it/10 R[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n
+/10 ) = \OML/cmm/m/it/10 ^^KR\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10
+ )
+ []
+
+Missing character: There is no 平 in font nullfont!
+Missing character: There is no 均 in font nullfont!
+Missing character: There is no 寿 in font nullfont!
+Missing character: There is no 命 in font nullfont!
+Missing character: There is no ： in font nullfont!
+
+Overfull \hbox (152.66103pt too wide) detected at line 45
+[]\OML/cmm/m/it/10 T \OT1/cmr/m/n/10 = [][] \OML/cmm/m/it/10 R\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 dt \OT1/cmr/m/n/10 = [][] \
+OML/cmm/m/it/10 e[]dt \OT1/cmr/m/n/10 = []
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \begin{figure}
+                   [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \begin{figure}[
+                    H]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.49 ^^I\includegraphics
+                        [width=0.7\linewidth]{figures/screenshot086}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.49 ^^I\includegraphics[width=0.7\linewidth]
+                                             {figures/screenshot086}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.49 ^^I\includegraphics[width=0.7\linewidth]
+                                             {figures/screenshot086}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ^^I\caption
+                {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.53 \subsubsection
+                   {寿命分析}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 寿 in font nullfont!
+Missing character: There is no 命 in font nullfont!
+Missing character: There is no 分 in font nullfont!
+Missing character: There is no 析 in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 \begin{figure}
+                   [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.56 ^^I\includegraphics
+                        [width=0.7\linewidth]{figures/screenshot087}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.56 ^^I\includegraphics[width=0.7\linewidth]
+                                             {figures/screenshot087}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.56 ^^I\includegraphics[width=0.7\linewidth]
+                                             {figures/screenshot087}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ^^I\caption
+                {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 47--60
+[]
+ []
+
+! Undefined control sequence.
+l.62 \subsection
+                {可修复系统的可靠度}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \subsection{可
+                    修复系统的可靠度}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 修 in font nullfont!
+Missing character: There is no 复 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 于 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 型 in font nullfont!
+Missing character: There is no 设 in font nullfont!
+Missing character: There is no 备 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 能 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 出 in font nullfont!
+Missing character: There is no 故 in font nullfont!
+Missing character: There is no 障 in font nullfont!
+Missing character: There is no 就 in font nullfont!
+Missing character: There is no 丢 in font nullfont!
+Missing character: There is no 弃 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 而 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 要 in font nullfont!
+Missing character: There is no 把 in font nullfont!
+Missing character: There is no 它 in font nullfont!
+Missing character: There is no 修 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 复 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 再 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 使 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 用 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 这 in font nullfont!
+Missing character: There is no 类 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 称 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 修 in font nullfont!
+Missing character: There is no 复 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 此 in font nullfont!
+Missing character: There is no 时 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 但 in font nullfont!
+Missing character: There is no 能 in font nullfont!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 正 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 常 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 运 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 行 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 状 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 态 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 转 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 移 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 到 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 失 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 效 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 状 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 态 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 而 in font nullfont!
+Missing character: There is no 且 in font nullfont!
+Missing character: There is no 还 in font nullfont!
+Missing character: There is no 能 in font nullfont!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 失 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 效 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 状 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 态 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 转 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 移 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 到 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 正 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 常 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 运 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 行 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 状 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 态 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 前 in font nullfont!
+Missing character: There is no 者 in font nullfont!
+Missing character: There is no 仍 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 用 in font nullfont!
+Missing character: There is no 失 in font nullfont!
+Missing character: There is no 效 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no 来 in font nullfont!
+Missing character: There is no 表 in font nullfont!
+Missing character: There is no 示 in font nullfont!
+Missing character: There is no 转 in font nullfont!
+Missing character: There is no 移 in font nullfont!
+Missing character: There is no 概 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no ； in font nullfont!
+Missing character: There is no 后 in font nullfont!
+Missing character: There is no 者 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 相 in font nullfont!
+Missing character: There is no 仿 in font nullfont!
+Missing character: There is no 地 in font nullfont!
+Missing character: There is no 定 in font nullfont!
+Missing character: There is no 义 in font nullfont!
+Missing character: There is no 修 in font nullfont!
+Missing character: There is no 复 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 \begin{figure}
+                   [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.67 ^^I\includegraphics
+                        [width=0.4\linewidth]{figures/screenshot088}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.67 ^^I\includegraphics[width=0.4\linewidth]
+                                             {figures/screenshot088}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.67 ^^I\includegraphics[width=0.4\linewidth]
+                                             {figures/screenshot088}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 ^^I\caption
+                {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 当 in font nullfont!
+Missing character: There is no 在 in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 时 in font nullfont!
+Missing character: There is no 处 in font nullfont!
+Missing character: There is no 于 in font nullfont!
+Missing character: There is no 失 in font nullfont!
+Missing character: There is no 效 in font nullfont!
+Missing character: There is no 状 in font nullfont!
+Missing character: There is no 态 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 条 in font nullfont!
+Missing character: There is no 件 in font nullfont!
+Missing character: There is no 下 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 在 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 到 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 内 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 修 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 复 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 概 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 率 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 为 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \begin{figure}
+                   [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.74 ^^I\includegraphics
+                        [width=0.7\linewidth]{figures/screenshot089}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.74 ^^I\includegraphics[width=0.7\linewidth]
+                                             {figures/screenshot089}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.74 ^^I\includegraphics[width=0.7\linewidth]
+                                             {figures/screenshot089}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 ^^I\caption
+                {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 求 in font nullfont!
+Missing character: There is no 解 in font nullfont!
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 述 in font nullfont!
+Missing character: There is no 微 in font nullfont!
+Missing character: There is no 分 in font nullfont!
+Missing character: There is no 方 in font nullfont!
+Missing character: There is no 程 in font nullfont!
+Missing character: There is no : in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 \begin{figure}
+                   [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.81 ^^I\includegraphics
+                        [width=0.7\linewidth]{figures/screenshot090}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.81 ^^I\includegraphics[width=0.7\linewidth]
+                                             {figures/screenshot090}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.81 ^^I\includegraphics[width=0.7\linewidth]
+                                             {figures/screenshot090}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 ^^I\caption
+                {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no 时 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--86
+[]
+ []
+
+
+Overfull \hbox (86.80002pt too wide) in paragraph at lines 62--86
+\TU/lmr/bx/n/10 修复再使用正常运行状态转移到失效状态失效状态转移到正常运行状态
+ []
+
+
+Overfull \hbox (20.60004pt too wide) in paragraph at lines 62--86
+\TU/lmr/bx/n/10 在$\OML/cmm/m/it/10 t$\TU/lmr/bx/n/10 到$\OML/cmm/m/it/10 t \OT1/
+cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (43.41599pt too wide) in paragraph at lines 62--86
+\OML/cmm/m/it/10 dt$\TU/lmr/bx/n/10 内修复的概率为$\OML/cmm/m/it/10 ^^Ldt$
+ []
+
+
+Overfull \hbox (18.33331pt too wide) in paragraph at lines 62--86
+\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 62--86
+\OMS/cmsy/m/n/10 1$ 
+ []
+
+
+Overfull \hbox (59.63248pt too wide) detected at line 88
+[]\OML/cmm/m/it/10 R\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = []
+ []
+
+
+! LaTeX Error: Environment description undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.89 \begin{description}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 ^^I\item[MTBF]
+                    Mean Time Between Failures
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (56.09782pt too wide) detected at line 93
+[]\OML/cmm/m/it/10 MTBF \OT1/cmr/m/n/10 = []
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 ^^I\item[MTTR]
+                    Mean Time To Repair
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+
+Overfull \hbox (54.84435pt too wide) detected at line 97
+[]\OML/cmm/m/it/10 MTTR \OT1/cmr/m/n/10 = []
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{description}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 \end{description}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (154.44551pt too wide) detected at line 101
+[]\OML/cmm/m/it/10 R\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = [] =
+ []
+ []
+
+! Undefined control sequence.
+l.103 \subsection
+                 {复杂系统的分解
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 \subsection{复
+                     杂系统的分解
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 复 in font nullfont!
+Missing character: There is no 杂 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 分 in font nullfont!
+Missing character: There is no 解 in font nullfont!
+! Undefined control sequence.
+l.105 \subsubsection
+                    {串接系统}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 串 in font nullfont!
+Missing character: There is no 接 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+
+! LaTeX Error: Environment gather undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 \begin{gather}
+                    \label{key}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no R in font nullfont!
+Missing character: There is no = in font nullfont!
+! Undefined control sequence.
+l.107 R = \varPi
+                _{r = 1}^{n}R_r\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.107 R = \varPi_
+                 {r = 1}^{n}R_r\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.108 F = 1-R = 1- \varPi
+                         _{r = 1}^{n}R_r
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{gather}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 \end{gather}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.109 \end{gather}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 如 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 果 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 个 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 可 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 修 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 复 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 系 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 统 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 则 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 103--111
+[]
+ []
+
+
+Overfull \hbox (26.57445pt too wide) in paragraph at lines 103--111
+[]\OML/cmm/m/it/10 R[][] 
+ []
+
+
+Overfull \hbox (18.37497pt too wide) in paragraph at lines 103--111
+\OML/cmm/m/it/10 F \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 103--111
+\OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (18.22566pt too wide) in paragraph at lines 103--111
+\OML/cmm/m/it/10 R \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (27.33112pt too wide) in paragraph at lines 103--111
+\OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10 ^^@[]
+ []
+
+
+Overfull \hbox (12.02115pt too wide) in paragraph at lines 103--111
+\OML/cmm/m/it/10 R[]$
+ []
+
+
+Overfull \hbox (34.39pt too wide) in paragraph at lines 103--111
+\TU/lmr/bx/n/10 如果是n个不可修复系统 
+ []
+
+
+Overfull \hbox (44.71147pt too wide) detected at line 113
+[]\OML/cmm/m/it/10 R \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 e[]
+ []
+
+Missing character: There is no 寿 in font nullfont!
+Missing character: There is no 命 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+
+Overfull \hbox (34.2541pt too wide) detected at line 117
+[]\OML/cmm/m/it/10 T \OT1/cmr/m/n/10 = []
+ []
+
+Missing character: There is no 若 in font nullfont!
+Missing character: There is no 各 in font nullfont!
+Missing character: There is no 子 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 可 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 靠 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 度 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 相 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 差 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 悬 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 殊 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 则 in font nullfont!
+Missing character: There is no 作 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 近 in font nullfont!
+Missing character: There is no 似 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 算 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 高 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 失 in font nullfont!
+Missing character: There is no 效 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no 较 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 以 in font nullfont!
+Missing character: There is no 忽 in font nullfont!
+Missing character: There is no 略 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 也 in font nullfont!
+Missing character: There is no 就 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 算 in font nullfont!
+Missing character: There is no 总 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+Missing character: There is no 或 in font nullfont!
+Missing character: There is no 平 in font nullfont!
+Missing character: There is no 均 in font nullfont!
+Missing character: There is no 寿 in font nullfont!
+Missing character: There is no 命 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 常 in font nullfont!
+Missing character: There is no 只 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 选 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 几 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 个 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 薄 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 弱 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 环 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 节 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 亦 in font nullfont!
+Missing character: There is no 即 in font nullfont!
+Missing character: There is no 几 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 低 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 子 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 来 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 算 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 这 in font nullfont!
+Missing character: There is no 样 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 简 in font nullfont!
+Missing character: There is no 化 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 如 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 果 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 个 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 独 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 立 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 可 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 修 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 复 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 系 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 统 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ： in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 \begin{figure}
+                    [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.123 ^^I\includegraphics
+                         [width=0.7\linewidth]{figures/screenshot091}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.123 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot091}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.123 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot091}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 ^^I\caption
+                 {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.127 \begin{figure}
+                    [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.129 ^^I\includegraphics
+                         [width=0.7\linewidth]{figures/screenshot092}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.129 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot092}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.129 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot092}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 ^^I\caption
+                 {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.132 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 如 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 果 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 个 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 非 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 独 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 立 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 可 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 修 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 复 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 系 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 统 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ： in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.134 \begin{figure}
+                    [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.136 ^^I\includegraphics
+                         [width=0.7\linewidth]{figures/screenshot093}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.136 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot093}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.136 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot093}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 ^^I\caption
+                 {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 子 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 系 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 统 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 有 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 可 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 修 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 复 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 系 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 统 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 和 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 可 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 修 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 复 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 系 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 统 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 则 in font nullfont!
+Missing character: There is no 整 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 平 in font nullfont!
+Missing character: There is no 均 in font nullfont!
+Missing character: There is no 寿 in font nullfont!
+Missing character: There is no 命 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no ： in font nullfont!
+
+Overfull \hbox (42.0pt too wide) in paragraph at lines 117--142
+\TU/lmr/bx/n/10 可靠度相差悬殊只选几个薄弱环节 
+ []
+
+
+Overfull \hbox (37.19pt too wide) in paragraph at lines 117--142
+\TU/lmr/bx/n/10 如果是n个独立可修复系统
+ []
+
+
+Overfull \hbox (39.99pt too wide) in paragraph at lines 117--142
+\TU/lmr/bx/n/10 如果是n个非独立可修复系统
+ []
+
+
+Overfull \hbox (50.79001pt too wide) in paragraph at lines 117--142
+\TU/lmr/bx/n/10 子系统中有可修复系统和不可修复系统:
+ []
+
+! Undefined control sequence.
+l.143 R=T_{\text
+                {不可修复}}R_{\text{可修复}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.143 R=T_{\text{不可修复}}R_{\text
+                                       {可修复}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 不 in font cmr7!
+Missing character: There is no 可 in font cmr7!
+Missing character: There is no 修 in font cmr7!
+Missing character: There is no 复 in font cmr7!
+Missing character: There is no 可 in font cmr7!
+Missing character: There is no 修 in font cmr7!
+Missing character: There is no 复 in font cmr7!
+
+Overfull \hbox (35.44002pt too wide) detected at line 144
+[]\OML/cmm/m/it/10 R \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 T[]R[]
+ []
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.145 \begin{figure}
+                    [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.147 ^^I\includegraphics
+                         [width=0.7\linewidth]{figures/screenshot094}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.147 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot094}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.147 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot094}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 ^^I\caption
+                 {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.151 \subsubsection
+                    {并接系统}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 并 in font nullfont!
+Missing character: There is no 接 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+
+! LaTeX Error: Environment gather undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.152 \begin{gather}
+                    \label{key}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no = in font nullfont!
+! Undefined control sequence.
+l.153 F = \varPi
+                _{r = 1}^{n}F_r = \varPi_{r = 1}^{n} (1-R_r)\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.153 F = \varPi_
+                 {r = 1}^{n}F_r = \varPi_{r = 1}^{n} (1-R_r)\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.153 F = \varPi_{r = 1}^{n}F_r = \varPi
+                                        _{r = 1}^{n} (1-R_r)\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.154 R= 1-F = 1- \varPi
+                        _{r = 1}^{n} (1-R_r)
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{gather}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.155 \end{gather}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.155 \end{gather}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156 \begin{figure}
+                    [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.158 ^^I\includegraphics
+                         [width=0.7\linewidth]{figures/screenshot095}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.158 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot095}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.158 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot095}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 ^^I\caption
+                 {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.162 \begin{figure}
+                    [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.164 ^^I\includegraphics
+                         [width=0.7\linewidth]{figures/screenshot096}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.164 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot096}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.164 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot096}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.165 ^^I\caption
+                 {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 述 in font nullfont!
+Missing character: There is no 过 in font nullfont!
+Missing character: There is no 程 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 热 in font nullfont!
+Missing character: There is no 备 in font nullfont!
+Missing character: There is no 份 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 冷 in font nullfont!
+Missing character: There is no 备 in font nullfont!
+Missing character: There is no 份 in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 旁 in font nullfont!
+Missing character: There is no 置 in font nullfont!
+Missing character: There is no 备 in font nullfont!
+Missing character: There is no 份 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ： in font nullfont!
+Missing character: There is no 某 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 时 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 段 in font nullfont!
+Missing character: There is no 内 in font nullfont!
+Missing character: There is no 只 in font nullfont!
+Missing character: There is no 开 in font nullfont!
+Missing character: There is no 启 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 只 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 当 in font nullfont!
+Missing character: There is no 这 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 故 in font nullfont!
+Missing character: There is no 障 in font nullfont!
+Missing character: There is no 了 in font nullfont!
+Missing character: There is no 才 in font nullfont!
+Missing character: There is no 开 in font nullfont!
+Missing character: There is no 启 in font nullfont!
+Missing character: There is no 另 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 这 in font nullfont!
+Missing character: There is no 会 in font nullfont!
+Missing character: There is no 造 in font nullfont!
+Missing character: There is no 成 in font nullfont!
+Missing character: There is no 启 in font nullfont!
+Missing character: There is no 动 in font nullfont!
+Missing character: There is no 时 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 差 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 半 in font nullfont!
+Missing character: There is no 热 in font nullfont!
+Missing character: There is no 备 in font nullfont!
+Missing character: There is no 份 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 子 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 在 in font nullfont!
+Missing character: There is no 运 in font nullfont!
+Missing character: There is no 行 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 另 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 处 in font nullfont!
+Missing character: There is no 于 in font nullfont!
+Missing character: There is no 半 in font nullfont!
+Missing character: There is no 工 in font nullfont!
+Missing character: There is no 作 in font nullfont!
+Missing character: There is no 状 in font nullfont!
+Missing character: There is no 态 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 如 in font nullfont!
+Missing character: There is no 预 in font nullfont!
+Missing character: There is no 热 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 寿 in font nullfont!
+Missing character: There is no 命 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 比 in font nullfont!
+Missing character: There is no : in font nullfont!
+
+Overfull \hbox (50.52092pt too wide) in paragraph at lines 144--172
+[]\OML/cmm/m/it/10 F[] \OT1/cmr/m/n/10 =[]
+ []
+
+
+Overfull \hbox (16.66672pt too wide) in paragraph at lines 144--172
+\OT1/cmr/m/n/10 (1 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (15.91005pt too wide) in paragraph at lines 144--172
+\OML/cmm/m/it/10 R[]\OT1/cmr/m/n/10 )[] 
+ []
+
+
+Overfull \hbox (18.22566pt too wide) in paragraph at lines 144--172
+\OML/cmm/m/it/10 R \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 144--172
+\OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (18.37497pt too wide) in paragraph at lines 144--172
+\OML/cmm/m/it/10 F \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (27.33112pt too wide) in paragraph at lines 144--172
+\OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10 ^^@[]
+ []
+
+
+Overfull \hbox (16.66672pt too wide) in paragraph at lines 144--172
+\OT1/cmr/m/n/10 (1 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (15.91005pt too wide) in paragraph at lines 144--172
+\OML/cmm/m/it/10 R[]\OT1/cmr/m/n/10 )$
+ []
+
+! Undefined control sequence.
+l.173 T_\text
+             {冷} > T_\text{半热} >T_\text{热}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.173 T_\text{冷} > T_\text
+                            {半热} >T_\text{热}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.173 T_\text{冷} > T_\text{半热} >T_\text
+                                             {热}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 冷 in font cmr7!
+Missing character: There is no 半 in font cmr7!
+Missing character: There is no 热 in font cmr7!
+Missing character: There is no 热 in font cmr7!
+
+Overfull \hbox (45.6977pt too wide) detected at line 174
+\OML/cmm/m/it/10 T[] > T[] > T[]
+ []
+
+Missing character: There is no 列 in font nullfont!
+Missing character: There is no 写 in font nullfont!
+Missing character: There is no 状 in font nullfont!
+Missing character: There is no 态 in font nullfont!
+Missing character: There is no 转 in font nullfont!
+Missing character: There is no 移 in font nullfont!
+Missing character: There is no 时 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 出 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 负 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 进 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 正 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.176 \begin{figure}
+                    [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.178 ^^I\includegraphics
+                         [width=0.7\linewidth]{figures/screenshot097}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.178 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot097}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.178 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot097}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.179 ^^I\caption
+                 {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.182 \subsection
+                 {串并混合}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 串 in font nullfont!
+Missing character: There is no 并 in font nullfont!
+Missing character: There is no 混 in font nullfont!
+Missing character: There is no 合 in font nullfont!
+! Undefined control sequence.
+l.183 \subsection
+                 {桥式电路}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 桥 in font nullfont!
+Missing character: There is no 式 in font nullfont!
+Missing character: There is no 电 in font nullfont!
+Missing character: There is no 路 in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 \begin{figure}
+                    [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 \begin{figure}[
+                     H]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.187 ^^I\includegraphics
+                         [width=0.7\linewidth]{figures/screenshot098}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.187 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot098}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.187 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot098}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.188 ^^I\caption
+                 {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.191 \begin{figure}
+                    [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.193 ^^I\includegraphics
+                         [width=0.7\linewidth]{figures/screenshot099}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.193 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot099}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.193 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot099}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 ^^I\caption
+                 {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.196 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.197 \begin{figure}
+                    [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.199 ^^I\includegraphics
+                         [width=0.7\linewidth]{figures/screenshot100}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.199 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot100}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.199 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot100}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.200 ^^I\caption
+                 {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.202 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.203 \begin{figure}
+                    [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.205 ^^I\includegraphics
+                         [width=0.7\linewidth]{figures/screenshot101}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.205 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot101}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.205 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot101}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.206 ^^I\caption
+                 {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.208 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 185--209
+[]
+ []
+
+! Undefined control sequence.
+l.211 \subsection
+                 {可靠性设计
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 \subsection{可
+                     靠性设计
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 设 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 211--213
+[] 
+ []
+
+Missing character: There is no 避 in font nullfont!
+Missing character: There is no 免 in font nullfont!
+Missing character: There is no 串 in font nullfont!
+Missing character: There is no 接 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 子 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 过 in font nullfont!
+Missing character: There is no 多 in font nullfont!
+Missing character: There is no 必 in font nullfont!
+Missing character: There is no 要 in font nullfont!
+Missing character: There is no 时 in font nullfont!
+Missing character: There is no 采 in font nullfont!
+Missing character: There is no 用 in font nullfont!
+Missing character: There is no 备 in font nullfont!
+Missing character: There is no 份 in font nullfont!
+Missing character: There is no 以 in font nullfont!
+Missing character: There is no 形 in font nullfont!
+Missing character: There is no 成 in font nullfont!
+Missing character: There is no 并 in font nullfont!
+Missing character: There is no 接 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 尽 in font nullfont!
+Missing character: There is no 量 in font nullfont!
+Missing character: There is no 减 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 各 in font nullfont!
+Missing character: There is no 子 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 或 in font nullfont!
+Missing character: There is no 部 in font nullfont!
+Missing character: There is no 件 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 故 in font nullfont!
+Missing character: There is no 障 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no 尽 in font nullfont!
+Missing character: There is no 量 in font nullfont!
+Missing character: There is no 增 in font nullfont!
+Missing character: There is no 加 in font nullfont!
+Missing character: There is no 修 in font nullfont!
+Missing character: There is no 复 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.219 \begin{figure}
+                    [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.221 ^^I\includegraphics
+                         [width=0.7\linewidth]{figures/screenshot102}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.221 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot102}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.221 ^^I\includegraphics[width=0.7\linewidth]
+                                              {figures/screenshot102}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.222 ^^I\caption
+                 {}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.224 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.226 \section
+              {通信网的可靠性}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 通 in font nullfont!
+Missing character: There is no 信 in font nullfont!
+Missing character: There is no 网 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 226--227
+[] 
+ []
+
+Missing character: There is no 第 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 种 in font nullfont!
+Missing character: There is no 定 in font nullfont!
+Missing character: There is no 义 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 整 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 网 in font nullfont!
+Missing character: There is no 出 in font nullfont!
+Missing character: There is no 发 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 图 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 能 in font nullfont!
+Missing character: There is no 成 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 联 in font nullfont!
+Missing character: There is no 结 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 那 in font nullfont!
+Missing character: There is no 么 in font nullfont!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 整 in font nullfont!
+Missing character: There is no 体 in font nullfont!
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 说 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 网 in font nullfont!
+Missing character: There is no 已 in font nullfont!
+Missing character: There is no 失 in font nullfont!
+Missing character: There is no 效 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 着 in font nullfont!
+Missing character: There is no 眼 in font nullfont!
+Missing character: There is no 于 in font nullfont!
+Missing character: There is no 网 in font nullfont!
+Missing character: There is no 内 in font nullfont!
+Missing character: There is no 某 in font nullfont!
+Missing character: There is no 些 in font nullfont!
+Missing character: There is no 端 in font nullfont!
+Missing character: There is no 从 in font nullfont!
+Missing character: There is no 随 in font nullfont!
+Missing character: There is no 机 in font nullfont!
+Missing character: There is no 图 in font nullfont!
+Missing character: There is no 出 in font nullfont!
+Missing character: There is no 发 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 设 in font nullfont!
+Missing character: There is no 代 in font nullfont!
+Missing character: There is no 表 in font nullfont!
+Missing character: There is no 网 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 图 in font nullfont!
+Missing character: There is no 并 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 确 in font nullfont!
+Missing character: There is no 定 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 任 in font nullfont!
+Missing character: There is no 两 in font nullfont!
+Missing character: There is no 端 in font nullfont!
+Missing character: There is no 之 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 边 in font nullfont!
+Missing character: There is no 与 in font nullfont!
+Missing character: There is no 否 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 以 in font nullfont!
+Missing character: There is no 概 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no 规 in font nullfont!
+Missing character: There is no 定 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+! Undefined control sequence.
+l.233 \section
+              {通信网的联结性
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 通 in font nullfont!
+Missing character: There is no 信 in font nullfont!
+Missing character: There is no 网 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 联 in font nullfont!
+Missing character: There is no 结 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 233--235
+[] 
+ []
+
+Missing character: There is no 最 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 割 in font nullfont!
+Missing character: There is no 端 in font nullfont!
+Missing character: There is no 集 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 端 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+
+Overfull \hbox (6.43404pt too wide) in paragraph at lines 236--237
+\OML/cmm/m/it/10 ^^K$ 
+ []
+
+Missing character: There is no 最 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 割 in font nullfont!
+Missing character: There is no 边 in font nullfont!
+Missing character: There is no 集 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 边 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 当 in font nullfont!
+Missing character: There is no 各 in font nullfont!
+Missing character: There is no 端 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 相 in font nullfont!
+Missing character: There is no 等 in font nullfont!
+Missing character: There is no 时 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 使 in font nullfont!
+Missing character: There is no 等 in font nullfont!
+Missing character: There is no 于 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 正 in font nullfont!
+Missing character: There is no 则 in font nullfont!
+Missing character: There is no 图 in font nullfont!
+
+Overfull \hbox (37.15056pt too wide) in paragraph at lines 237--238
+\OML/cmm/m/it/10 ^^L$$^^L$$\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 m=n$ 
+ []
+
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 述 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 混 in font nullfont!
+Missing character: There is no 合 in font nullfont!
+
+Overfull \hbox (5.73285pt too wide) in paragraph at lines 238--239
+\OML/cmm/m/it/10 ^^M$ 
+ []
+
+Missing character: There is no , in font nullfont!
+Missing character: There is no 冗 in font nullfont!
+Missing character: There is no 余 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+
+Overfull \hbox (24.78252pt too wide) in paragraph at lines 239--240
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 m=n$ 
+ []
+
+
+Overfull \hbox (83.13309pt too wide) detected at line 243
+[]\OML/cmm/m/it/10 ^^M \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 ^^K \OMS/cmsy/m/n/10 
+^^T \OML/cmm/m/it/10 ^^L \OMS/cmsy/m/n/10 ^^T \OT1/cmr/m/n/10 2\OML/cmm/m/it/10
+ m=n
+ []
+
+Missing character: There is no 边 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 最 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 连 in font nullfont!
+Missing character: There is no 接 in font nullfont!
+Missing character: There is no 图 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 树 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 任 in font nullfont!
+Missing character: There is no 两 in font nullfont!
+Missing character: There is no 端 in font nullfont!
+Missing character: There is no 之 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 只 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 条 in font nullfont!
+Missing character: There is no 径 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 去 in font nullfont!
+Missing character: There is no 掉 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 条 in font nullfont!
+Missing character: There is no 边 in font nullfont!
+Missing character: There is no 或 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 端 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 必 in font nullfont!
+Missing character: There is no 使 in font nullfont!
+Missing character: There is no 图 in font nullfont!
+Missing character: There is no 成 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 联 in font nullfont!
+Missing character: There is no 结 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+! Undefined control sequence.
+l.246 \section
+              {局间通信和综合可靠度}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 局 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 通 in font nullfont!
+Missing character: There is no 信 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no 综 in font nullfont!
+Missing character: There is no 合 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 靠 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 246--247
+[] 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 251--251
+[] 
+ []
+
+
+Overfull \hbox (35.01613pt too wide) detected at line 253
+\OML/cmm/m/it/10 a \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 b \OT1/cmr/m/n/10 = \OML/
+cmm/m/it/10 c
+ []
+
+)
+! Emergency stop.
+<*> ./chapter6.tex
+                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 23 strings out of 493005
+ 343 string characters out of 6137956
+ 67634 words of memory out of 5000000
+ 4092 multiletter control sequences out of 15000+600000
+ 3656 words of font info for 16 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 18i,3n,12p,140b,96s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

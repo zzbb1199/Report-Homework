@@ -1,4 +1,4 @@
-\documentclass[a4paper ]{article}
+\documentclass[a4paper ]{report}
 % 导言区
 \usepackage{amsmath}
 \usepackage{xeCJK}
@@ -15,6 +15,7 @@
 \usepackage{xcolor}
 \newcounter{mycounter}[subsubsection]
 \newcommand{\redbf}[1]{\color{red}{\text{#1}}}
+
 \newcommand{\subsubsubsection}[1]{
 	\stepcounter{mycounter}
 	\paragraph{\arabic{mycounter} \hspace{1pt} #1 }\hspace{0.1pt} \\
@@ -26,9 +27,6 @@
 	\stepcounter{question}
 	\textbf{问题\thequestion \hspace{0.5em} #1}
 }
-
-
-
 % 加深编号
 \setcounter{secnumdepth}{4}
 \newcommand{\insertimage}[1]{

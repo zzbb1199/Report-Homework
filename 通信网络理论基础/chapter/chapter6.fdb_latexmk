@@ -1,0 +1,12 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "chapter6.xdv" "chapter6.pdf" "chapter6" 0
+  "chapter6.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "chapter6.pdf"
+["xelatex"] 1530844553 "chapter6.tex" "chapter6.xdv" "chapter6" 1530844554
+  "chapter6.aux" 1530843752 9 a94a2480d3289e625eea47cd1b285758 ""
+  "chapter6.tex" 1530843763 7902 a6ace7058b834f0ee996e67e39769862 ""
+  "d:/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1524395321 3678290 ad941aa2bb330c81b59fa35601be76a7 ""
+  (generated)
+  "chapter6.xdv"
+  "chapter6.log"

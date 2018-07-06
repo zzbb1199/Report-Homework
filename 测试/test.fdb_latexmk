@@ -1,0 +1,22 @@
+# Fdb version 3
+["xdvipdfmx"] 1530846595 "test.xdv" "test.pdf" "test" 1530846596
+  "test.xdv" 1530846595 668 3a4495d5997201177b124bf4d1425a42 "xelatex"
+  (generated)
+  "test.pdf"
+["xelatex"] 1530846594 "test.tex" "test.xdv" "test" 1530846596
+  "d:/texlive/2017/texmf-dist/tex/latex/base/article.cls" 1524394376 19821 310da678527a7dfe2a02c88af38079b7 ""
+  "d:/texlive/2017/texmf-dist/tex/latex/base/size10.clo" 1524394376 8292 e897c12e1e886ce77fe26afc5d470886 ""
+  "d:/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1524394257 1224 978390e9c2234eab29404bc21b268d1e ""
+  "d:/texlive/2017/texmf-dist/tex/latex/graphics-def/xetex.def" 1524394257 21966 ed359f6c6c81a1c024b31a1bd86d1b4a ""
+  "d:/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty" 1524394257 14603 b288c52bd5d46d593af31dbc7e548236 ""
+  "d:/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty" 1524394257 8125 557ab9f1bfa80d369fb45a914aa8a3b4 ""
+  "d:/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty" 1524394257 2594 d18d5e19aa8239cf867fa670c556d2e9 ""
+  "d:/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty" 1524394257 3980 0a268fbfda01e381fa95821ab13b6aee ""
+  "d:/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1524395321 3678290 ad941aa2bb330c81b59fa35601be76a7 ""
+  "test.aux" 1530846595 8 a94a2480d3289e625eea47cd1b285758 ""
+  "test.tex" 1530846593 158 81520959f717ed32f8efdbe8211ad790 ""
+  "tt.pdf" 1528295381 673470 f8b4460471475db47f80225d1d44bc06 ""
+  (generated)
+  "test.aux"
+  "test.xdv"
+  "test.log"

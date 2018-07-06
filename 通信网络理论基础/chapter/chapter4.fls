@@ -1,0 +1,4 @@
+PWD D:/Projects/LatexProject/Report-Homework/通信网络理论基础/chapter
+INPUT d:/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt
+INPUT ./chapter4.tex
+OUTPUT chapter4.log
