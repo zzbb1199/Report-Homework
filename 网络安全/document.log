@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.4.22)  6 JUL 2018 21:06
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.4.22)  7 JUL 2018 11:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1252,24 +1252,32 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 
 ])
-(./chapters/chater2.tex) (./chapters/chater3.tex) (./chapters/chater4.tex)
-(./chapters/chater5.tex [2]
+(./chapters/chater2.tex [2]
 Chapter 2.
-[3
+) (./chapters/chater3.tex [3
+
+]
+Chapter 3.
+File: figures/dsa.png Graphic file (type QTm)
+<use  "figures/dsa.png" > [4
+
+]) (./chapters/chater4.tex) (./chapters/chater5.tex [5]
+Chapter 4.
+[6
 
 ]
 File: figures/screenshot001.png Graphic file (type QTm)
- <use  "figures/screenshot001.png" > [4]) (./chapters/chater6.tex [5]
-Chapter 3.
-[6
+ <use  "figures/screenshot001.png" > [7]) (./chapters/chater6.tex [8]
+Chapter 5.
+[9
 
-]) (./chapters/chater7.tex [7]
-Chapter 4.
-[8
+]) (./chapters/chater7.tex [10]
+Chapter 6.
+[11
 
 ]
 File: figures/screenshot002.png Graphic file (type QTm)
- <use  "figures/screenshot002.png" > [9]
+ <use  "figures/screenshot002.png" > [12]
 File: figures/screenshot003.png Graphic file (type QTm)
 
 <use  "figures/screenshot003.png" >
@@ -1277,22 +1285,26 @@ File: figures/screenshot004.png Graphic file (type QTm)
  <use  "figures/screenshot004.png" >
 File: figures/screenshot005.png Graphic file (type QTm)
 
-<use  "figures/screenshot005.png" > [10])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
- [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+<use  "figures/screenshot005.png" > [13]) (./chapters/chater8.tex [14]
+Chapter 7.
+[15
+
+] [16])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
+ [17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
  (./document.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 41.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 42.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 42.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 24693 strings out of 493005
- 464081 string characters out of 6137956
- 539073 words of memory out of 5000000
- 28505 multiletter control sequences out of 15000+600000
- 4096 words of font info for 27 fonts, out of 8000000 for 9000
+ 24722 strings out of 493005
+ 465134 string characters out of 6137956
+ 539118 words of memory out of 5000000
+ 28523 multiletter control sequences out of 15000+600000
+ 4582 words of font info for 33 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 46i,7n,59p,10438b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,10n,59p,10438b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on document.pdf (11 pages).
+Output written on document.pdf (17 pages).

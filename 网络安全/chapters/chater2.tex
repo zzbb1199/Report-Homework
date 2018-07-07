@@ -1,0 +1,26 @@
+\chapter{密码学概论}
+
+\question{RSA算法}\\
+公钥与密钥的产生
+\begin{enumerate}
+	\item 随意选择两个大的质数p和q，p不等于q，计算N=pq。
+	\item 根据欧拉函数，求得r = (p-1)(q-1)
+	\item 选择一个小于 r 的整数 e，求得 e 关于模 r 的模反元素，命名为d。（模反元素存在，\textbf{当且仅当e与r互质}）
+	\begin{equation}\label{key}
+	e\times d = 1\ mod\ r
+	\end{equation}
+	\item 将 p 和 q 的记录销毁。
+\end{enumerate}
+(N,e)为公钥，(N,d)为私钥。\textbf{采用公钥加密，私钥解密}\\
+一个实例
+\begin{gather}
+ p = 3,q=11 , N = pq = 33\\
+ r = (p-1)(q-1) = 2*10 = 20 \\
+ ed = r * n + 1\\
+ e = 3,d = 7\\
+\end{gather}
+所以公钥(33,3),私钥(33,7)。要传输的消息m = 24
+\begin{gather}
+ \text{加密}\quad m^e mod N = 24^3 \% 33 = 30\\
+ \text{解密}\quad c^d mod N = 30 ^d \% 33 =24
+\end{gather}

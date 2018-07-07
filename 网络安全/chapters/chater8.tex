@@ -1,0 +1,133 @@
+\chapter{网络安全技术}
+\question{安全漏洞}，在硬件、软件、协议的具体实现或系统安全策略上存在缺陷，从而使攻击者能够在未收钱的情况下访问或破坏系统。\\
+分为三级安全漏洞
+\begin{enumerate}
+	\item A级漏洞，允许恶意入侵者访问斌可能会破坏整个目标系统的漏洞，是威胁最大的一种漏洞。如允许远程用户未经授权访问
+	\item B级漏洞,允许本地用户提供访问权限，并可能允许其获得系统控制的漏洞
+	\item C级漏洞,允许用户中断，降低或阻碍系统操作的漏洞，如拒绝服务漏洞。
+\end{enumerate}
+
+
+\question{网络攻击的一般流程}
+\begin{itemize}
+	\item 信息的收集
+	\item 系统安全缺陷探测
+	\item 实施攻击
+	\item 巩固安全成果
+\end{itemize}
+
+\question{网络攻击分类}
+\begin{itemize}
+	\item 主动攻击，攻击者访问他所需信息必须要实施其主管上的故意行为。如拒绝服务攻击
+	\item 被动攻击，主要收集信息而不是进行访问。如攻击嗅探。
+\end{itemize}
+
+
+
+
+\question{网络探测}
+探测是攻击者在攻击开始前必须的情报搜集工作，同行包括
+\begin{enumerate}
+	\item 踩点，攻击者手机攻击目标相关信息的方法和步骤，了解攻击目标的基本情况
+	\item 扫描，攻击者获取活动主机、来访服务、操作系统、安全漏洞等关键信息的重要技术
+	\begin{enumerate}
+		\item TCP 连接扫描
+		\item TCP SYN扫描
+		\item TCP FIN扫描
+		\item TCP ACK扫描
+		\item TCP 窗口扫描
+		\item TCP RPC扫描
+		\item UDP 扫描
+		\item ICMP 扫描
+	\end{enumerate}
+	\item 网络查点，从目标系统中抽取有效账号或到处资源名的技术，通过主动目标系统建立连接来获取信息，因此这种探测方式在本质上要比网络彩电和网络扫描更具有入侵效果。
+\end{enumerate}
+
+\question{常见扫描工具}
+Nmap,PortScan等。
+
+\question{网络欺骗} 常见的网路欺骗包括\textbf{IP源地址欺骗、DNS欺骗和源路由选择欺骗}
+\begin{enumerate}
+	\item IP源地址欺骗，伪造某台主机的IP地址的技术。通过IP地址的伪造使得某台主机能够伪装成另外一台主机，而这台主机往往具有某种特权或者被另外的主机所信任。
+	\item DNS欺骗，将域名和IP地址映射篡改，用户访问的将不是原来的IP。
+	\item 源路由选择欺骗，源路由是指在数据吧收不中列些除了所要经过的路由。某些路由器对源路由的反映是使用其指定的路由，并使用其反向路由来传送应答。要实现源路由选择欺骗，必须满足：1.IP地址欺骗。2.路由器支持源路由。
+\end{enumerate}
+
+\question{拒绝服务攻击}，攻击这设法使目的主机停止提供服务，耗尽目标主机的通信、存储或计算资源的方式来迫使目标主机暂停服务。
+\begin{enumerate}
+	\item DOS
+	\begin{enumerate}
+		\item SYN 泛洪
+		\item UDP 泛洪,带宽攻击。
+		\item Ping 泛洪
+		\item 泪滴攻击
+		\item Land攻击，源地址和目的地址都是服务器地址，建立空连接
+		\item Smurf攻击，反弹攻击。伪造目的地址为目标主机地址。
+	\end{enumerate}
+	\item DDos,攻击主机操作大量傀儡主机同时向目标主机进行进攻的方式。
+\end{enumerate}
+
+\question{Dos防范方法}
+\begin{enumerate}
+	\item 关闭不必要的服务
+	\item 限制同时打开的SYN半连接数目
+	\item 缩短SYN半连接的超时等待时间
+	\item 及时更新系统补丁
+\end{enumerate}
+
+\question{缓冲区溢出攻击}
+
+\question{SQL注入攻击}，攻击者提交一段数据库查询代码，根据程序返回的结果，获得某些想得知的数据，这就是所谓的SQL注入攻击
+\begin{description}
+	\item[原理] 通过构建特殊的输入，将这些输入作为参数传入Web应用程序，通过执行SQL语句而执行入侵者想要的操作。
+	\item[步骤] 
+	\begin{enumerate}
+		\item 寻找SQL注入点
+		\item 获取和验证SQL注入点
+		\item 获取信息
+		\item 实施直接控制
+		\item 实施间接控制
+	\end{enumerate}
+\end{description}
+防范只有依赖于编程过程中严格设计和仔细检查。
+
+\question{计算机病毒}，一种认为制造的，在计算机运行中对计算机信息或系统起到破坏作用的程序。包含以下\textbf{特性}。
+\begin{enumerate}
+	\item 寄生性。依附于某种类型的文件上
+	\item 可执行性。
+	\item 传染性。
+	\item 潜伏性
+	\item 可触发
+	\item 破坏性
+	\item 不可预见性
+	\item 针对性
+	\item 衍生性
+\end{enumerate}
+
+\question{木马攻击}，一种常用语网络攻击的特殊\textbf{软件}。一个完整的木马包含两个部分：\textbf{服务端和客户端}。攻击者可利用客户端对安装了服务端的主机进行远程控制。通常在目标主机运行木马程序的服务端后，会秘密打开一个特定的端口，用于接收攻击者发出的指令或向指定的目的地发送数据.
+
+\question{病毒与木马的区别}
+木马在本质上一种基于\textbf{客户/服务器模式}的远程管理工具，一般不具备自我传播能力，而是作为一种实施攻击的手段被病毒植入目标系统的主机中。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
