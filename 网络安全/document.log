@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.4.22)  7 JUL 2018 19:30
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.4.22)  7 JUL 2018 20:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1302,22 +1302,39 @@ File: figures/screenshot005.png Graphic file (type QTm)
 Chapter 8.
 [20
 
-] [21])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
- [22]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
+] [21]) (./chapters/chater9.tex [22]
+Chapter 9.
+) (./chapters/chater10.tex [23
+
+]
+Chapter 10.
+[24
+
+]) (./chapters/chater11.tex [25]
+Chapter 11.
+[26
+
+]
+File: figures/screenshot008.png Graphic file (type QTm)
+ <use  "figures/screenshot008.png" >
+File: figures/screenshot009.png Graphic file (type QTm)
+ <use  "figures/screenshot009.png" >)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
+
+[27]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
  (./document.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 42.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 42.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 45.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 45.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 24741 strings out of 493005
- 466260 string characters out of 6137956
- 540145 words of memory out of 5000000
- 28540 multiletter control sequences out of 15000+600000
+ 24756 strings out of 493005
+ 466535 string characters out of 6137956
+ 539203 words of memory out of 5000000
+ 28544 multiletter control sequences out of 15000+600000
  4582 words of font info for 33 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  46i,10n,59p,10438b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on document.pdf (22 pages).
+Output written on document.pdf (27 pages).
