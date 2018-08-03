@@ -9,7 +9,7 @@ public class DP1 {
 	/**
 	 * 暴力破解显然不够，选择DP求解 状态D(i,j) 表示第i层地面为j时可选择的方案数
 	 * 
-	 * @author 张兴锐
+	 * @author Raven
 	 *
 	 */
 	static long count = 0;

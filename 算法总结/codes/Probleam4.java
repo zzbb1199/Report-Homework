@@ -1,7 +1,7 @@
 package problems.zhenti.b2017;
 /**
  * 寻找对称图案
- * @author 张兴锐
+ * @author Raven
  *
  */
 public class Probleam4 {

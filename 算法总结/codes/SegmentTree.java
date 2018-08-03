@@ -1,7 +1,7 @@
 package algorithm.boyilun;
 /**
  * 线段树
- * @author 张兴锐
+ * @author Raven
  *
  */
 public class SegmentTree {
